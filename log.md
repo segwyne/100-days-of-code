@@ -5,6 +5,7 @@
 **Today's Progress**: Went through multiple tutorials on how to use GitHub so I can get started with this.  Created repo for our tech website and began building that.
 
 **Thoughts:** I feel like I have done so much just to get started, without actually creating anything (aside from useless example repos).  It felt silly to have a nice public webpage in which I built link to a lameass site for ourselves, so I started on our own site now. I created the header and navigation bar and also created a template css sheet for myself to stay organized.
+
 **Link to work:** [Saunders Tech Site](https://github.com/segwyne/Saunders-tech-site)  I'm not sure how to link to a specific commit yet, or even if that is possible.
 
 ### Day 0: February 30, 2016 (Example 2)
