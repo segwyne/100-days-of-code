@@ -8,22 +8,11 @@
 
 **Link to work:** [Saunders Tech Site](https://github.com/segwyne/Saunders-tech-site)  I'm not sure how to link to a specific commit yet, or even if that is possible.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: August 6, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started working on my sewing website so I can save working on the tech site to do with Btechie. I created the repo, uploaded the very base files I had already.  I worked on making the flexbox navigation work, and worked on the background for the header using GIMP.  
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I get frustrated with the git commands, particularly when I hve existing files and can't reconcile them with the repo.  I resorted to moving the files I had just worked on to a holding space, then deleting and remaking the folder for them, pulling the git from Github, and then adding the updated folders back into the new folder and then I was able to push them.  Very frustrating.  But I finally got it accomplished and I can focus on just the actual coding part in the future.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Commit for Segwyne's Needle](https://github.com/segwyne/segwynes-needle/commit/3bcf4768a2ecb2c9cbdd2b5e5b0806b33f10cc3f)
 
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
