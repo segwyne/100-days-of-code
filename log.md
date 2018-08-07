@@ -16,3 +16,10 @@
 
 **Link(s) to work**: [Commit for Segwyne's Needle](https://github.com/segwyne/segwynes-needle/commit/3bcf4768a2ecb2c9cbdd2b5e5b0806b33f10cc3f)
 
+### Day 3: August 7, 2018
+
+**Today's Progress**: I spent quite a while wrestling with background images before finally deciding to just use a solid background color instead.  I used both CSS and GIMP in the wrestling process.  I also looked up the answer to get rid of the ridiculous amount of white space I had all around my header, and did that.  I pored over fonts to decide which one I liked and would play nicely with me and integrated that, too.
+
+**Thoughts**: The mobile-first approach is much easier for me to do when I open a second browser and just reduce the size way down to 360 px.  Otherwise I get to imagining the full screen version first instead.  I know it doesn't look like I did a lot with my coding, but that is because I kept having to undo what I tried.   I was failing my way to success.  "Nope, wrong road again!"
+
+**Link(s) to work**: [Commit for Segwyne's Needle](https://github.com/segwyne/segwynes-needle/commit/bf43530aae4e0bb3db5c62e9713cdd9d6f33faaa)
