@@ -1,20 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 1: August 5, 2018
+### Day 5: August 9, 2018
 
-**Today's Progress**: Went through multiple tutorials on how to use GitHub so I can get started with this.  Created repo for our tech website and began building that.
+**Today's Progress**: I created a contact form page, but not the processing page to go with it.  I also created my About page.  When I tested my contact page in mobile view, I noticed that my fixed footer obscured the bottom of my content, including my Submit button, so I added padding to the bottom of the content division to counteract that.  I also tried unsuccessfully to make my navbar sticky when it hits the top of my page.  I see lots of JS methods to do it, but I'm not familiar enough with JS and I thought that position: sticky was supposed to work for that.  But it won't for me.
 
-**Thoughts:** I feel like I have done so much just to get started, without actually creating anything (aside from useless example repos).  It felt silly to have a nice public webpage in which I built link to a lameass site for ourselves, so I started on our own site now. I created the header and navigation bar and also created a template css sheet for myself to stay organized.
+**Thoughts**: Honestly, I didn't expect to get an hour of coding in today once I completed my other obligations.  But once the kids were in bed, I sat down, deciding that a half hour was better than nothing, and I think I coded a full hour or more.  My hubs will be getting up in an hour and a half, so I need to hasten off to bed before that.  The running dishwasher will still give me away in the morning, but I won't go to bed with a kitchen full of dirty dishes.  I also decided to change the orientation of this log so that I do not have to scroll to the bottom to update it each time.
 
-**Link to work:** [Saunders Tech Site](https://github.com/segwyne/Saunders-tech-site)  I'm not sure how to link to a specific commit yet, or even if that is possible.
+**Link to work**: [Commit #10 for Segwyne's Needle](https://github.com/segwyne/segwynes-needle/commit/ab00f525a8990e953e499612d30639f6c909a53c)
 
-### Day 2: August 6, 2018
 
-**Today's Progress**: Started working on my sewing website so I can save working on the tech site to do with Btechie. I created the repo, uploaded the very base files I had already.  I worked on making the flexbox navigation work, and worked on the background for the header using GIMP.  
+### Day 4: August 8, 2018
 
-**Thoughts**: I get frustrated with the git commands, particularly when I hve existing files and can't reconcile them with the repo.  I resorted to moving the files I had just worked on to a holding space, then deleting and remaking the folder for them, pulling the git from Github, and then adding the updated folders back into the new folder and then I was able to push them.  Very frustrating.  But I finally got it accomplished and I can focus on just the actual coding part in the future.
+**Today's Progress**: I worked on finishing up my navigation menu and created a footer.  Both sections use flexbox.  I adjusted the navigation so that the mobile version has a pull-down menu instead of taking up half of the screen's real estate with the menu, and rearranged a couple of items.
 
-**Link to work**: [Commit for Segwyne's Needle](https://github.com/segwyne/segwynes-needle/commit/3bcf4768a2ecb2c9cbdd2b5e5b0806b33f10cc3f)
+**Thoughts**: I'm understanding the flexbox system better now.  I can write the code now without having to look it up so much.  As I work on this site, I start to wonder what content I will use to actually fill the pages.  I guess my favorite part is making the theme.
+
+**Link to work**: [Commit #9 for Segwyne's Needle](https://github.com/segwyne/segwynes-needle/commit/ef439723a56f335c6c1386630af7f4dbc1b4145d)
+
 
 ### Day 3: August 7, 2018
 
@@ -24,10 +26,20 @@
 
 **Link to work**: [Commit for Segwyne's Needle](https://github.com/segwyne/segwynes-needle/commit/bf43530aae4e0bb3db5c62e9713cdd9d6f33faaa)
 
-### Day 4: August 8, 2018
 
-**Today's Progress**: I worked on finishing up my navigation menu and created a footer.  Both sections use flexbox.  I adjusted the navigation so that the mobile version has a pull-down menu instead of taking up half of the screen's real estate with the menu, and rearranged a couple of items.
+### Day 2: August 6, 2018
 
-**Thoughts**: I'm understanding the flexbox system better now.  I can write the code now without having to look it up so much.  As I work on this site, I start to wonder what content I will use to actually fill the pages.  I guess my favorite part is making the theme.
+**Today's Progress**: Started working on my sewing website so I can save working on the tech site to do with Btechie. I created the repo, uploaded the very base files I had already.  I worked on making the flexbox navigation work, and worked on the background for the header using GIMP.  
 
-**Link to work**: [Commit #9 for Segwyne's Needle](https://github.com/segwyne/segwynes-needle/commit/ef439723a56f335c6c1386630af7f4dbc1b4145d)
+**Thoughts**: I get frustrated with the git commands, particularly when I hve existing files and can't reconcile them with the repo.  I resorted to moving the files I had just worked on to a holding space, then deleting and remaking the folder for them, pulling the git from Github, and then adding the updated folders back into the new folder and then I was able to push them.  Very frustrating.  But I finally got it accomplished and I can focus on just the actual coding part in the future.
+
+**Link to work**: [Commit for Segwyne's Needle](https://github.com/segwyne/segwynes-needle/commit/3bcf4768a2ecb2c9cbdd2b5e5b0806b33f10cc3f)
+
+
+### Day 1: August 5, 2018
+
+**Today's Progress**: Went through multiple tutorials on how to use GitHub so I can get started with this.  Created repo for our tech website and began building that.
+
+**Thoughts:** I feel like I have done so much just to get started, without actually creating anything (aside from useless example repos).  It felt silly to have a nice public webpage in which I built link to a lameass site for ourselves, so I started on our own site now. I created the header and navigation bar and also created a template css sheet for myself to stay organized.
+
+**Link to work:** [Saunders Tech Site](https://github.com/segwyne/Saunders-tech-site)  I'm not sure how to link to a specific commit yet, or even if that is possible.
