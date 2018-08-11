@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 6: August 10, 2018
+
+**Today's Progress**: I actually put in two hours today, not one.  I probably did on some previous days, too.  I worked on the processing page for my contact form.  It is coming along.  It mostly functions.  It gets the data to me, but it isn't validating anything yet.  Looks like that will be tomorrow's project.  I also switched all of my placeholder pages from html to php so I can work with just one file for making changes to the header or footer.
+
+**Thoughts**: I think I need to start setting a timer for myself so I know when my hour is up.  Taking the time to actually type the code instead of copy/pasting it really does make a huge difference in learning it.
+
+**Link to work**: [Commit #11 for Segwyne's Needle](https://github.com/segwyne/segwynes-needle/commit/ca36b8c0bef3ac6c806cb58f85813e82262ecda5)
+
+
 ### Day 5: August 9, 2018
 
 **Today's Progress**: I created a contact form page, but not the processing page to go with it.  I also created my About page.  When I tested my contact page in mobile view, I noticed that my fixed footer obscured the bottom of my content, including my Submit button, so I added padding to the bottom of the content division to counteract that.  I also tried unsuccessfully to make my navbar sticky when it hits the top of my page.  I see lots of JS methods to do it, but I'm not familiar enough with JS and I thought that position: sticky was supposed to work for that.  But it won't for me.
