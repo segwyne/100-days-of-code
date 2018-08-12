@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 7 August 11, 2018
+
+**Today's Progress**: I didn't do much actual coding today.  I decided to finish up the CSS course at W3Schools that I had begun and learned something so I went to go make a fix to the website I built for my work and discovered that my boss had made some changes because that I thought were ill-advised.  I had specifically kept the dropdown menu a different color from the main menu so that there would be a visual distinction when viewed on a phone, but that meant that on the larger size screen the dropdown menu items were the same color as the body background.  I was going to adjust the borders so that it had side borders, but she changed the background color instead.  So I changed it back and added the side borders.  Since this is not the first time she has altered the site (and slightly broken it) since it went live a couple of weeks ago, I decided to back up all the files to my own server.  Just in case I need them later.  :)  Since I haven't figured out how to use FTP, I had to do this manually by downloading every file one at a time.  Altogether, it took up the whole hour.
+
+**Thoughts**: I really want to get on to learning PHP , but it looks like I really should finish CSS and Javascript first.  I already finished the basic HTML course, and was well over halfway through the CSS, so I am going to plug away at those some more.
+
+**Link to work**: None, really.  I suppose I can link to [my work website](http://fortat4.org), the one I just fixed again and backed up.  
+
 ### Day 6: August 10, 2018
 
 **Today's Progress**: I actually put in two hours today, not one.  I probably did on some previous days, too.  I worked on the processing page for my contact form.  It is coming along.  It mostly functions.  It gets the data to me, but it isn't validating anything yet.  Looks like that will be tomorrow's project.  I also switched all of my placeholder pages from html to php so I can work with just one file for making changes to the header or footer.
