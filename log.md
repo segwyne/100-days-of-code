@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 8 August 12, 2018
+
+**Today's Progress**: I focused on the CSS class at W3Schools.com today.  I learned about rounded corners, border images, backgrounds, colors, gradients, and shadows.
+
+**Thoughts**: Much of this I had already been exposed to through my Frankenstein method of website building for the Fort, but I want to go through the whole class in order, without skipping anything.  I don't want to be arrogant and think I already know what the lesson is going to teach me.
+
+**Link to work**: Again, none.  I just worked through the tutorials.
+
 ### Day 7 August 11, 2018
 
 **Today's Progress**: I didn't do much actual coding today.  I decided to finish up the CSS course at W3Schools that I had begun and learned something so I went to go make a fix to the website I built for my work and discovered that my boss had made some changes because that I thought were ill-advised.  I had specifically kept the dropdown menu a different color from the main menu so that there would be a visual distinction when viewed on a phone, but that meant that on the larger size screen the dropdown menu items were the same color as the body background.  I was going to adjust the borders so that it had side borders, but she changed the background color instead.  So I changed it back and added the side borders.  Since this is not the first time she has altered the site (and slightly broken it) since it went live a couple of weeks ago, I decided to back up all the files to my own server.  Just in case I need them later.  :)  Since I haven't figured out how to use FTP, I had to do this manually by downloading every file one at a time.  Altogether, it took up the whole hour.
