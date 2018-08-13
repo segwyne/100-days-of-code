@@ -8,7 +8,9 @@
 
 **Link to work**:
 On Github: [Commit 12 on Segwyne's Needle](https://github.com/segwyne/segwynes-needle/commit/169747e4d61fb202c870c5f74afb92e387f34d8b)
-The actual site so far: [Segwyne's Needle: Price List](http://segwynesneedle.com/price-list.php
+
+The actual site so far: [Segwyne's Needle: Price List](http://segwynesneedle.com/price-list.php)
+
 The original weebly site that I am converting from: [Segwyne's Needle] (http://segwynesneedle.weebly.com/)
 
 ### Day 8 August 12, 2018
