@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 9 August 13, 2018
+
+**Today's Progress**: I created a Price List for my sewing business, thought the prices themselves need to be updated.  I just brought the content over from my original weebly site and then formatted and styled it.  I used :first-child and :last-child to set the widths on my table because I didn't want to apply a class to every single data cell. I also figured out why my footer wasn't showing up properly on my About page.  I was missing the initial < sign to open the php tag.  Fixed that, too.
+
+**Thoughts**: I don't like tables, but they seem to be a necessary evil sometimes.
+
+**Link to work**:
+On Github: [Commit 12 on Segwyne's Needle](https://github.com/segwyne/segwynes-needle/commit/169747e4d61fb202c870c5f74afb92e387f34d8b)
+The actual site so far: [Segwyne's Needle: Price List](http://segwynesneedle.com/price-list.php
+The original weebly site that I am converting from: [Segwyne's Needle] (http://segwynesneedle.weebly.com/)
+
 ### Day 8 August 12, 2018
 
 **Today's Progress**: I focused on the CSS class at W3Schools.com today.  I learned about rounded corners, border images, backgrounds, colors, gradients, and shadows.
