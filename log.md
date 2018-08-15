@@ -8,7 +8,7 @@
 
 **Links to work**: 
 On Github: [Commit 13 on Segwyne's Needle](https://github.com/segwyne/segwynes-needle/commit/8929e526ac313f905fb450bf0a20509ae9084022)
-Live site: [Segwyne's Needle: Showcase]((http://segwynesneedle.com/showcase.php)
+Live site: [Segwyne's Needle: Showcase](http://segwynesneedle.com/showcase.php)
 
 ### Day 9 August 13, 2018
 
