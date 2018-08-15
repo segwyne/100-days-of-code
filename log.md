@@ -1,12 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 10 August 14, 2018
+
+**Today's Progress**: I want slideshows of my work on my Showcase page, so I began by creating one.  Or mostly creating one.  I am using placeholder photos of the autumn beauty where I live until I get nice photos of my clothing.  The caption bar sticks out a bit on the side, but after spending an hour and a half sifting through my Google Photos, and then another hour and a half coding (since sifting through photos doesn't really count as coding), I am exhausted.  So I will fix the sticky-outy bar tomorrow.  I blatantly copy-and-pasted the JavaScript portion, and tweaked it to remove the parts I didn't use, and change to the names I did use.  This will be unallowable once I start learning Javascript.
+
+**Thoughts**: I probably over-documented the Media section of my stylesheet.  But this is a section I am still learning, so I want to know exactly which line does what at this point.  I am hoping to make multiple slideshows on this page and am wondering if flexbox would be helpful since some photos are landscape, and some are portrait orientation.  Now that I actually think about it, each slideshow should probably be put on its own page, linked to from a thumbnail photo to preserve bandwidth and load time.
+
+**Links to work**: 
+On Github: [Commit 13 on Segwyne's Needle](https://github.com/segwyne/segwynes-needle/commit/8929e526ac313f905fb450bf0a20509ae9084022)
+Live site: [Segwyne's Needle: Showcase]((http://segwynesneedle.com/showcase.php)
+
 ### Day 9 August 13, 2018
 
 **Today's Progress**: I created a Price List for my sewing business, thought the prices themselves need to be updated.  I just brought the content over from my original weebly site and then formatted and styled it.  I used :first-child and :last-child to set the widths on my table because I didn't want to apply a class to every single data cell. I also figured out why my footer wasn't showing up properly on my About page.  I was missing the initial < sign to open the php tag.  Fixed that, too.
 
 **Thoughts**: I don't like tables, but they seem to be a necessary evil sometimes.
 
-**Link to work**:
+**Links to work**:
 On Github: [Commit 12 on Segwyne's Needle](https://github.com/segwyne/segwynes-needle/commit/169747e4d61fb202c870c5f74afb92e387f34d8b)
 
 The actual site so far: [Segwyne's Needle: Price List](http://segwynesneedle.com/price-list.php)
