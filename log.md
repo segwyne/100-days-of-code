@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 11 August 15, 2018
+
+**Today's Progress**: I fixed the sticky-outy part of the caption on my slideshow by removing some padding.  I added a second slideshow, just because.  I did have to look up how to make the same JS work for both slideshows, and it took me a while to discover that I had one extra tweak to make to make each set of advance buttons work on their own slideshows.  All the buttons were working for one slideshow, and ignoring the other, so I got that fixed.  At the end of the hour, I was still working on getting the slideshows to sit nicely on the page.  I got them to sit side-by-side instead of above/below, but they are squished up against one side for now.  I guess that's where I'll start tomorrow.
+
+**Thoughts**: Yes, I like to do things simply to see if I can.  I want to explore having portrait-oriented slideshows and landscape-oriented slideshows on the same page.  I currently have one of each, and they need a lot more styling work.
+
+**Link to work**: On Github: [Commit 14 on Segwyne's Needle](https://github.com/segwyne/segwynes-needle/commit/cc82177cc911b15b3e1d41b3637f847e75c49360)
+Live site: [Segwyne's Needle: Showcase](http://segwynesneedle.com/showcase.php)
+
 ### Day 10 August 14, 2018
 
 **Today's Progress**: I want slideshows of my work on my Showcase page, so I began by creating one.  Or mostly creating one.  I am using placeholder photos of the autumn beauty where I live until I get nice photos of my clothing.  The caption bar sticks out a bit on the side, but after spending an hour and a half sifting through my Google Photos, and then another hour and a half coding (since sifting through photos doesn't really count as coding), I am exhausted.  So I will fix the sticky-outy bar tomorrow.  I blatantly copy-and-pasted the JavaScript portion, and tweaked it to remove the parts I didn't use, and change to the names I did use.  This will be unallowable once I start learning Javascript.
