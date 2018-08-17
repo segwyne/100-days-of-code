@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+
+### Day 12 August 16, 2018
+
+**Today's Progress**: It doesn't look like I did anything at all today except copy my php file into html so I can run it locally. I experimented with flex-box for my slideshows, but I still have some debugging to do before I can really try it again.  Some issues I encountered in my experimentation today included having one slidedhow sit on top of the other, and having the "next" buttons decided to align to the right of the screen instead of the right of the division while the "prev" buttons behaved just fine.
+
+**Thoughts**: I'm tempted to throw in the towel on this and choose a different way to display the shows, but the whole point of this is the process not the product, so I need to stick with creating my original vision until I make it real instead of giving up and creating a different look that is just "good enough for now".  No, I need to go with exactly what I envisioned.  I'm way more product-oriented than process-oriented, so this is good practice for me.
+
+**Link to work**: [Commit 14 on Segwyne's Needle](https://github.com/segwyne/segwynes-needle/commit/9ebbf7557ca3c8cce67e537e165fc0b53e280df8) I did create a branch for slideshows - my first attempt at branches.  I'm not sure why it is still the same commit number as yesterday.  
+
 ### Day 11 August 15, 2018
 
 **Today's Progress**: I fixed the sticky-outy part of the caption on my slideshow by removing some padding.  I added a second slideshow, just because.  I did have to look up how to make the same JS work for both slideshows, and it took me a while to discover that I had one extra tweak to make to make each set of advance buttons work on their own slideshows.  All the buttons were working for one slideshow, and ignoring the other, so I got that fixed.  At the end of the hour, I was still working on getting the slideshows to sit nicely on the page.  I got them to sit side-by-side instead of above/below, but they are squished up against one side for now.  I guess that's where I'll start tomorrow.
