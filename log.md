@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 13 August 17, 2018
+
+**Today's Progress**: I conquered the multi-slideshow challenge!  I got four slideshows on one page, two portrait oriented and two landscape oriented.  I made them so they won't pile on top of each other, I tweaked the JS to include the extra slideshows, I made them stack vertically on small screens and in a grid on large screens.
+
+**Thoughts**: I am very proud of myself for getting this done.  I still want to make the slideshows shrink to fit on tiny screens without scrolling, so I will start there tomorrow.  Then I will figure out how to merge branches.
+
+**Link to work**: 
+
+On Github: [Commit 16 on Segwyne's Needle](https://github.com/segwyne/segwynes-needle/commit/4a3c9b102a00b574c6fa454d3e528682a1251869)
+
+Live site: [Segwyne's Needle Showcase](http://segwynesneedle.com/showcase.php)
 
 ### Day 12 August 16, 2018
 
