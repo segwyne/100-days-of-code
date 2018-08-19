@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 15 August 19, 2018
+
+**Today's Progress**: I started the Javascript section of W3Schools, then to put that into practice, I wrote some JS buttons to turn the animations from yesterday on and off.
+
+**Thoughts**: I'm having just a little trouble with the box animation and making it mobile-friendly.  I want it to go right down to the top of the footer (with some margin), but it is using way too much margin unless I put in absolute distances.  I tried using "top: calc(100% - 100px)" but that wasn't giving me the results I wanted.  It is like there is another section between the division the animation is in and the footer, but there is nothing there that I can find.  I tried shutting off the padding, but that didn't help, so I am using "top: 350px" instead, which isn't so friendly for phones.
+
+**Link to work**:[Segwyne's Needle: Silliness](https://github.com/segwyne/segwynes-needle/commit/47ef90f41d7ab5427fad440be96a0148805cc843)
+
 ### Day 14 August 18, 2018
 
 **Today's Progress**: I finished all of the CSS exercises on W3Schools.com.  There was more CSS after that, so I went ahead and got to work on that.  After a few hours, I realized I hadn't done any coding at all yet, so I created some silliness on my page.
