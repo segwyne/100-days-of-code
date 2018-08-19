@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
-## Day 13 August 17, 2018
+### Day 14 August 18, 2018
+
+**Today's Progress**: I finished all of the CSS exercises on W3Schools.com.  There was more CSS after that, so I went ahead and got to work on that.  After a few hours, I realized I hadn't done any coding at all yet, so I created some silliness on my page.
+
+**Thoughts**: Coding after 3 shots of Schnapps leads to some interesting ideas for demonstrations.
+
+**Link to work**:
+
+On Github: [Commit 17 on Segwyne's Needle](https://github.com/segwyne/segwynes-needle/commit/5bb2b24d06545e14826229d246e906534b7952f1)
+Live Site: [Segwyne's Needle: Silliness](http://segwynesneedle.com/cssplay.php)
+
+### Day 13 August 17, 2018
 
 **Today's Progress**: I conquered the multi-slideshow challenge!  I got four slideshows on one page, two portrait oriented and two landscape oriented.  I made them so they won't pile on top of each other, I tweaked the JS to include the extra slideshows, I made them stack vertically on small screens and in a grid on large screens.
 
