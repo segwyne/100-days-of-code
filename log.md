@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 16 August 20, 2018
+
+**Today's Progress**: I worked on the JS lessons for 45 minutes and learned about assignments, data types, functions, objects and events. I then moved the silliness items from my sewing page to a demo page on the tech site, where it makes much more sense for them to be.  I also used the JS I just learned to make the buttons change the class of the animation box so I have one div that applies different animations instead of having different divs that either display or don't.  Now it is one div, and the button changes its class.  I also changed the buttons to call functions instead of having the JS written right into the HTML of the button.  I also took my face off of it and just used a colored block div.  The face was actually a little scary, according to my kids.
+
+**Thoughts**: Spelling matters!  Typing "dispaly" instead of "display" will make the entire function fail.
+
+**Link to work**: [Saunders Technology](https://saunderstechnology.com/animations.html)
+
 ### Day 15 August 19, 2018
 
 **Today's Progress**: I started the Javascript section of W3Schools, then to put that into practice, I wrote some JS buttons to turn the animations from yesterday on and off.
