@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 17 August 21, 2018
+
+**Today's Progress**: In Javascript, I learned about strings, numbers, arrays, and dates.  I created a box to display the current date at the bottom of my front page.
+
+**Thoughts**: The arrays were very confusing to me.  I couldn't see the "how" behind the methods, specifically the comparisons.  I can see that it does work, I just don't understand how it works.  I was also a little frustrated that at one point the lessons said, "You do x this way, but don't do it that way because it complicates the code and slows it down."  Then why did you say I can do it that way?  And then later, "This is how y works.  There is no reason to use it in your code."
+
+**Link to work**: [Saunders Technology](https://saunderstechnology.com/index.html)
+
 ### Day 16 August 20, 2018
 
 **Today's Progress**: I worked on the JS lessons for 45 minutes and learned about assignments, data types, functions, objects and events. I then moved the silliness items from my sewing page to a demo page on the tech site, where it makes much more sense for them to be.  I also used the JS I just learned to make the buttons change the class of the animation box so I have one div that applies different animations instead of having different divs that either display or don't.  Now it is one div, and the button changes its class.  I also changed the buttons to call functions instead of having the JS written right into the HTML of the button.  I also took my face off of it and just used a colored block div.  The face was actually a little scary, according to my kids.
