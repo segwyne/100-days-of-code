@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 18 August 22, 2018
+
+**Today's Progress**: I did this a day early since I won't have any time tomorrow (August 22) to sit and code.  I made the navigation responsive, and I also made the animations page responsive.  I made the animations themselves smaller in scope to be easily viewed on a phone, but then the in between sizes of a tablet were throwing me for a loop, so I decided to just offer the animations on large screens, and put a message to show on smaller screens asking them to view the animations on a large screen.  I also switched all of the files on the live site to PHP, even though I am testing them using HTML on my local machine.
+
+**Thoughts**: I understand the responsive navbar better now.  Even though I had deployed one before, that was pure copy-and-paste code that I didn't fully understand.  Now I understand how the checkbox method works, and how to hide the ugly checkbox.
+
+**Link to work**: [Saunders Technology](https://saunderstechnology.com/animations.php)
+
 ### Day 17 August 21, 2018
 
 **Today's Progress**: In Javascript, I learned about strings, numbers, arrays, and dates.  I created a box to display the current date at the bottom of my front page.
