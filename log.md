@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 19 August 23, 2018
+
+**Today's Progress**: Today I learned about the random function in Javascript, so I got the great idea of creating a character generation page for table-top RPGs (such as Dungeons and Dragons).  So far, my page will roll one die of a user-entered size.  But I've got big plans for it!  If only I had a group to game with again, I might actually be able to put this to use.  I miss gaming.
+
+**Thoughts**: I would like to expand this into a complete character generation and storage system, so that gamers can quickly create characters, store them online, update them, and print them out for gaming sessions.  
+
+**Link to work**: [Dice-rolling page](http://saunderstechnology.com/dice.php)
+
 ### Day 18 August 22, 2018
 
 **Today's Progress**: I did this a day early since I won't have any time tomorrow (August 22) to sit and code.  I made the navigation responsive, and I also made the animations page responsive.  I made the animations themselves smaller in scope to be easily viewed on a phone, but then the in between sizes of a tablet were throwing me for a loop, so I decided to just offer the animations on large screens, and put a message to show on smaller screens asking them to view the animations on a large screen.  I also switched all of the files on the live site to PHP, even though I am testing them using HTML on my local machine.
