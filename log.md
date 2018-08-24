@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 19A August 23, 2018
+
+**Today's Progress**: I learned about booleans, comparisons, conditions, switch, and loops.  I added code to my dice page to allow the user to roll multiple dice at the same time.  It also documents on the screen what it is doing.
+
+**Thoughts**: I was really itching to make multiple dice possible.  That's why I did a couple more hours here tonight.
+
+**Link to work**: [Dice page](https://saunderstechnology.com/dice.php)
+
 ### Day 19 August 23, 2018
 
 **Today's Progress**: Today I learned about the random function in Javascript, so I got the great idea of creating a character generation page for table-top RPGs (such as Dungeons and Dragons).  So far, my page will roll one die of a user-entered size.  But I've got big plans for it!  If only I had a group to game with again, I might actually be able to put this to use.  I miss gaming.
