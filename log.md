@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 21 August 25, 2018
+
+**Today's Progress**: I began populating the spell tabld of my game's database.  I got 40% done.
+
+**Thoughts**: Data entry isn't quite as exciting as coding, but I need the tables populated so I can do all the fine-point coding later.
+
 ### Day 20 August 24, 2018
 
 **Today's Progress**: While rummaging around on our home file server, I discovered a roleplaying game I had written about 20 years ago and never playtested.  I fell in love with it all over again and created a database with LibreOffice Base to start making the game playable.  I created tables for players, characters, skills, spells, and items.  I populated the entire skills table.  I made my husband put the kids to bed so I could immerse myself in this project, promising that I would not be up all night long.  I also started the SQL lessons on W3Schools, and learned about syntax, select, select distinct, where, and, or, not, order by, insert into, null values, update, delete, select top, min, and max.
