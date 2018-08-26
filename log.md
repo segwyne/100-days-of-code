@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 22 August 26, 2018
+
+**Today's Progress**: Continued populating database.  Spell table is now 80% done.
+
+**Thoughts**: Pretty much a continuation of yesterday.  Once I get all the skills and spells populated, I can begin with the coding necessary to create characters.
+
 ### Day 21 August 25, 2018
 
-**Today's Progress**: I began populating the spell tabld of my game's database.  I got 40% done.
+**Today's Progress**: I began populating the spell table of my game's database.  I got 40% done.
 
 **Thoughts**: Data entry isn't quite as exciting as coding, but I need the tables populated so I can do all the fine-point coding later.
 
