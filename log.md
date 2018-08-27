@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 23 August 27, 2018
+
+**Today's Progress**: I got LibreOffice Base to connect to the MariaDB that my husband had installed on a jail for me.  I now have a form to show the characters that will cross reference various tables to show all of a character's information.  For example, I have a table of Character information (including name, ID#, player#, race, level, etc.), a table of different skills that are available (including skillID#, skill name, purchase cost, description), and a reference table that holds just the Character ID# and skill ID#s.  I use this to pull it all together and create a full picture of the character.
+
+**Thoughts**: I have forgotten so much in 20 years.  I remember having lots of different features that I have to relearn how to create.  I will get there.
+
 ### Day 22 August 26, 2018
 
 **Today's Progress**: Continued populating database.  Spell table is now 80% done.
