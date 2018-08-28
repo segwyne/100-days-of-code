@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 24 August 28, 2018
+
+**Today's Progress**: Today I broke down the rulebook into individual sections for easier development and updating.  I slightly expanded the database and created some forms for data management.  I also started creating some web pages for database management.
+
+**Thoughts**: This rulebook has way less info that I originally thought.  What it does have is pretty well fleshed out, and the rest of what is missing is easily recreated.  
+
+**Link to work**: [Eltara repository](https://github.com/segwyne/Eltara)
+
 ### Day 23 August 27, 2018
 
 **Today's Progress**: I got LibreOffice Base to connect to the MariaDB that my husband had installed on a jail for me.  I now have a form to show the characters that will cross reference various tables to show all of a character's information.  For example, I have a table of Character information (including name, ID#, player#, race, level, etc.), a table of different skills that are available (including skillID#, skill name, purchase cost, description), and a reference table that holds just the Character ID# and skill ID#s.  I use this to pull it all together and create a full picture of the character.
