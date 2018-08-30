@@ -4,7 +4,7 @@
 
 **Today's Progress**: Today I created a page to look up Player characters.  The page queries the database and returns all the results.  I have the page now display the query results in alphabetical order by last name, then first name.  The results are clickable so that each result can take you to a page created for that player.  Working on getting the results to display actual data rather than "Array Array Array".
 
-**Thoughts**: Every time now that I want to design something, I find myself wishing I could just do it with CSS.  That happened today at work when I was trying to create admission tickets.  "Why can't I just make a division here and style it?" Because LibreOffice Writer doesn't use <div>.
+**Thoughts**: Every time now that I want to design something, I find myself wishing I could just do it with CSS.  That happened today at work when I was trying to create admission tickets.  "Why can't I just make a division here and style it?" Because LibreOffice Writer doesn't use divs.
 
 ### Day 25 August 29, 2018
 
