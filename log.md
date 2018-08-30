@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 26 August 30, 2018
+
+**Today's Progress**: Today I created a page to look up Player characters.  The page queries the database and returns all the results.
+
+**Thoughts**: Next up: To choose a result from the query and edit it.
+
 ### Day 25 August 29, 2018
 
 **Today's Progress**: I now have the relationships established between my various tables (Players, Characters, Skills, Spells, Racial Traits, Plot stories). I finished creating the pages for the game's site, even if many pages have "Check back later" messages.  I put previous and next navigation buttons on the lore pages.  I fumbled around with the database some more.
