@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 25 August 29, 2018
+
+**Today's Progress**: I now have the relationships established between my various tables (Players, Characters, Skills, Spells, Racial Traits, Plot stories). I finished creating the pages for the game's site, even if many pages have "Check back later" messages.  I put previous and next navigation buttons on the lore pages.  I fumbled around with the database some more.
+
+**Thoughts**: I am haivng trouble figuring out how to build a form in LibreOffice Base that will pull data from lots of tables instead of just two.  I want it to show the character statistics, that character's skills (I've got that done), the players name (as referenced by a separate table, not yet done), any spells that character has learned (through another reference table) as well as the plotlines the character is involved in (from yet another table).  I suspect I can do it through an HTML form, but when I tried connecting HTML to MySQ last night, it really bogged down my machine, to the tune of waiting 3-5 minutes to see my mouse move, just like loading web pages in the early 90s over 28k modems.  I was cleaning the kitchen and checking in to see if it had moved yet.  So I need to figure out what I'm doing wrong there.
+
+**Link to work**: [Eltara game](saunderstechnology.com/Eltara/)
+
 ### Day 24 August 28, 2018
 
 **Today's Progress**: Today I broke down the rulebook into individual sections for easier development and updating.  I slightly expanded the database and created some forms for data management.  I also started creating some web pages for database management.
