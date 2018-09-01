@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 29 August 31, 2018
+
+**Today's Progress**: I mashed together a very inelegant solution to my "Array Array Array" problem, that involves running a while loop with only one record.  But it outputs actual data, which is what I needed.  I also had trouble with a corrupted table and then I couldn't repair it, or rebuild it, or replace it, so I ended up deleting the whole database and rewriting it.  So all of the structure is there now with no data in it. I did export the tables to a spreadsheet first, but then it didn't record the field names, so I had to figure out what each of the boolean fields were again.  And now I can't figure out how to import the data from the spreadsheet.  That is kind of depressing.
+
+**Thoughts**: I'm sure there is a much more elegant way to create my search and output pages.  I have a page for each table I might want to search.  And that silly while loop has got to have a better answer.
+
+**Link to progress**: 
+
 ### Day 26 August 30, 2018
 
 **Today's Progress**: Today I created a page to look up Player characters.  The page queries the database and returns all the results.  I have the page now display the query results in alphabetical order by last name, then first name.  The results are clickable so that each result can take you to a page created for that player.  Working on getting the results to display actual data rather than "Array Array Array".
