@@ -10,7 +10,7 @@
 
 [Saunders Tech site git](https://github.com/segwyne/Saunders-tech-site/commit/c3da75983b11fb3e4108c119a25d38bd0fe5e03b)
 
-[Saunders Technology](http://192.168.1.150/SaundersTech/slideshows.php)
+[Saunders Technology](http://saunderstechnology.com/slideshows.php)
 
 [W3Schools' instructions](https://www.w3schools.com/howto/howto_js_slideshow_gallery.asp)
 
