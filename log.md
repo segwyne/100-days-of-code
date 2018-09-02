@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 29 September 2, 2018
+
+**Today's Progress**: So that misalignment of the previous button in my slideshow was due to text-align: center instead of text-align: left.  It was a simple fix.  I created a photo gallery based off of the one at W3Schools, and it is driving me bonkers.  I can get it to work perfectly except that I have a white band between my photos and my caption.  I discovered that it is caused by declaring a DOCTYPE.  If I don't declare it, the page renders just fine.  If I do declare it, it adds this bar under all of the galleries.  I hadn't noticed before because I had nothing that was supposed to be touching the bottom of the photo before.  When I ran the debugger in Firefox (this problem appeared on Firefox, Chrome, Opera, and Edge - all the browsers I have access to right now), it looked like it was telling me that the html element was only reaching partway down my page. It is creating a 4 pixel gap.  I have a single pixel green border around all of my galleries now (for debugging purposes - it helps me know which element needs tweaking), and that is how I discovered it is affecting all of my galleries.
+
+**Thoughts**: This issue is really bugging me.  Everything I read says that it is very important to declare a doctype, but I don't want my site to be broken.  How the heck did W3Schools get theirs to work?
+
+**Links to work**:
+
+[Saunders Tech site git](https://github.com/segwyne/Saunders-tech-site/commit/c3da75983b11fb3e4108c119a25d38bd0fe5e03b)
+[Saunders Technology](http://192.168.1.150/SaundersTech/slideshows.php)
+[W3Schools' instructions](https://www.w3schools.com/howto/howto_js_slideshow_gallery.asp)
+
 ### Day 28 September 1 2018
 
 **Today's Progress**: Today I was finally aple to import the tables from my spreadsheet backup into my reconstructed database.  Whew!  That sure saved a lot of typing or copy-and-pasting.  I also discovered what was causing my computer to get so incredibly bogged down - I wasn't closing my database connection properly on some pages. So it was opening a new connection every time I reloaded the page, and it never shut them down.  Seems to be all fixed now.  I went back to the tech site to try sprucing that up a bit.  I can't very well advertise as a web designer if my own webpage stinks.  I got my animations put up, and most of my slideshow.  The slideshow is being quirky, though.  It works perfectly well with one css sheet, but even though I copy-and-pasted the css specific to the slideshow from the old css sheet to the new one, the previous button has decided to sit in the middle of the photos instead of on the left side.  I remember I ran in this problem before, and even though I documented the bejabbers out of my css, I can't figure out how I fixed it last time.  I also created an external javascript page to keep those better organized.
