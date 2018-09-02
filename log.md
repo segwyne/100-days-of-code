@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 28 September 1 2018
+
+**Today's Progress**: Today I was finally aple to import the tables from my spreadsheet backup into my reconstructed database.  Whew!  That sure saved a lot of typing or copy-and-pasting.  I also discovered what was causing my computer to get so incredibly bogged down - I wasn't closing my database connection properly on some pages. So it was opening a new connection every time I reloaded the page, and it never shut them down.  Seems to be all fixed now.  I went back to the tech site to try sprucing that up a bit.  I can't very well advertise as a web designer if my own webpage stinks.  I got my animations put up, and most of my slideshow.  The slideshow is being quirky, though.  It works perfectly well with one css sheet, but even though I copy-and-pasted the css specific to the slideshow from the old css sheet to the new one, the previous button has decided to sit in the middle of the photos instead of on the left side.  I remember I ran in this problem before, and even though I documented the bejabbers out of my css, I can't figure out how I fixed it last time.  I also created an external javascript page to keep those better organized.
+
+**Thoughts**: I can see my improvement over this last month.  I can now read more code and understand it.  My boss told me today that I saved the museum anywhere from $5000 to $15,000 by redesigning their website.  That is apparently what she was quoted and it just wasn't in the budget.  My jaw dropped when she told me that.  I wonder if that is truly typical, because if that is the going rate for websites, then I need to learn how to drum up business.
+
+**Links to work**: [Saunders Technology](saunderstechnology.com)
+
 ### Day 27 August 31, 2018
 
 **Today's Progress**: I mashed together a very inelegant solution to my "Array Array Array" problem, that involves running a while loop with only one record.  But it outputs actual data, which is what I needed.  I also had trouble with a corrupted table and then I couldn't repair it, or rebuild it, or replace it, so I ended up deleting the whole database and rewriting it.  So all of the structure is there now with no data in it. I did export the tables to a spreadsheet first, but then it didn't record the field names, so I had to figure out what each of the boolean fields were again.  And now I can't figure out how to import the data from the spreadsheet.  That is kind of depressing.
