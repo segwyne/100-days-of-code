@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 30 September 3, 2018
+**Today's Progress**: I added a footer to the website today, but it decided to be contrary and began at the top of my slideshow, so all of my photo galleries were in my footer (or at least had the background color for the footer).  I was able to fix that by adding div tags after my navigation bar and before my footer to enclose all the content in a div.content.  That put my footer where it belongs.  Then it decided to have funky padding.  1px of padding had the same visual effect as either 20px or 50px of padding. 0 padding had a definite effect, though.  Plainly I need to dissect my css.
+
+**Thoughts**: I have been spending probably 4-6 hours a day on average coding here, and my that is way out of balance.  I need to rein it back to one hour each day.  So here is my one hour.
+
 ### Day 29 September 2, 2018
 
 **Today's Progress**: So that misalignment of the previous button in my slideshow was due to text-align: center instead of text-align: left.  It was a simple fix.  I created a photo gallery based off of the one at W3Schools, and it is driving me bonkers.  I can get it to work perfectly except that I have a white band between my photos and my caption.  I discovered that it is caused by declaring a DOCTYPE.  If I don't declare it, the page renders just fine.  If I do declare it, it adds this bar under all of the galleries.  I hadn't noticed before because I had nothing that was supposed to be touching the bottom of the photo before.  When I ran the debugger in Firefox (this problem appeared on Firefox, Chrome, Opera, and Edge - all the browsers I have access to right now), it looked like it was telling me that the html element was only reaching partway down my page. It is creating a 4 pixel gap.  I have a single pixel green border around all of my galleries now (for debugging purposes - it helps me know which element needs tweaking), and that is how I discovered it is affecting all of my galleries.
