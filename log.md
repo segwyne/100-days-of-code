@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 31 September 4, 2018
+
+**Today's Progress**: I decided to create a basic css sheet that I can just customize for each website I design.  I snipped out some features and made them their own reference files.  I also updated my sewing site, taking down the pricing for alterations since I decided that I am not going to offer that service anymore.  I didn't dissect the Tech site css yes.
+
+**Thoughts**: A full month already!  And of course, I went and spent several hours again today.  It is addicting.  But most of that time was while the kids were at school and I didn't actually have other obligations.
+
 ### Day 30 September 3, 2018
 **Today's Progress**: I added a footer to the website today, but it decided to be contrary and began at the top of my slideshow, so all of my photo galleries were in my footer (or at least had the background color for the footer).  I was able to fix that by adding div tags after my navigation bar and before my footer to enclose all the content in a div.content.  That put my footer where it belongs.  Then it decided to have funky padding.  1px of padding had the same visual effect as either 20px or 50px of padding. 0 padding had a definite effect, though.  Plainly I need to dissect my css.
 
