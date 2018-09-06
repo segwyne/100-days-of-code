@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 32 September 5, 2018
+
+**Today's Progress**: Today I worked on dissecting my tech site css.  I tried out other similar css sheets with the same html to try to identify when the problem was with the css or the html.  I keep getting weird spacers now, usually under elements or at the end of the page.  Like when body {height:100%} extends below the screen when there is only a sentence or two on the page. 
+
+**Thoughts**: I'm thinking of ditching it and rewriting the whole thing from scratch.
+
 ### Day 31 September 4, 2018
 
-**Today's Progress**: I decided to create a basic css sheet that I can just customize for each website I design.  I snipped out some features and made them their own reference files.  I also updated my sewing site, taking down the pricing for alterations since I decided that I am not going to offer that service anymore.  I didn't dissect the Tech site css yes.
+**Today's Progress**: I decided to create a basic css sheet that I can just customize for each website I design.  I snipped out some features and made them their own reference files.  I also updated my sewing site, taking down the pricing for alterations since I decided that I am not going to offer that service anymore.  I didn't dissect the Tech site css yet.
 
 **Thoughts**: A full month already!  And of course, I went and spent several hours again today.  It is addicting.  But most of that time was while the kids were at school and I didn't actually have other obligations.
 
