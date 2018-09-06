@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 33 September 6, 2018
+
+**Today's Progress**: I bit the bullet and restarted the whole CSS from almost nothing.  I kept the animations and then started rebuilding everything else.
+
+**Thoughts**: There is much better retention when I type things out myself instead of using copy-and-paste.  It took me a while to get the correct order for @media only screen and (min-width: xyz).  I was recognizing it as a whole, but not as the individual parts until I typed it out several more times.
+
 ### Day 32 September 5, 2018
 
 **Today's Progress**: Today I worked on dissecting my tech site css.  I tried out other similar css sheets with the same html to try to identify when the problem was with the css or the html.  I keep getting weird spacers now, usually under elements or at the end of the page.  Like when body {height:100%} extends below the screen when there is only a sentence or two on the page. 
