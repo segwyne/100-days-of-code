@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 34 September 7, 2018
+
+**Today's Progress**: I got a huge chunk of the CSS Rewrite done.  Now I'm fine-tuning my slide shows and photo galleries, trying to figure out why one will work and another nearly identical won't.
+
+**Thoughts**:  I think my CSS is a bit cleaner now.  I still have a mysterious margin below my images.  It seems to be caused by styling my caption division, but I don't understand how.  Must get some sleep.
+
+**Link to work**: [Commit 13 on Saunders Tech Site](https://github.com/segwyne/Saunders-tech-site/commit/7e45f764c6a26a325755cd14a037f7ef2173ddab)
+
 ### Day 33 September 6, 2018
 
 **Today's Progress**: I bit the bullet and restarted the whole CSS from almost nothing.  I kept the animations and then started rebuilding everything else.
