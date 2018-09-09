@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 35 September 8, 2018
+
+**Today's Progress**: With some advice from this group on FB, I was able to fix that mysterious margin issue.  I had to set the height of my image container.
+
+**Thoughts**: I still don't know where the extra 4 pixels under each image came from.  I didn't get a whole lot done today, but I think I'm getting sick, so I'm going to take care of my body and go to bed.
+
 ### Day 34 September 7, 2018
 
 **Today's Progress**: I got a huge chunk of the CSS Rewrite done.  Now I'm fine-tuning my slide shows and photo galleries, trying to figure out why one will work and another nearly identical won't.
