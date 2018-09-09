@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 36 September 9, 2018
+
+**Today's Progress**: Today I got quite a bit done (didn't confine myself to one hour, either). I added modals to show on mobile screens when opening the animations page or the slideshow page, warning that they are better viewed on larger screens.  I also added an animation to one of the slideshows that slides the photos in from the top.  Now all of the slideshows on that page have different features.  I also made all of my changes live.
+
+**Thoughts**:  I like having all of the slideshows unique.  Before, I felt like one was redundant, showing the exact same features as the first.  It just felt like a placeholder for the layout.  Now I feel like it really has something to demonstrate.  I'm having trouble with some of my JS.  Sometimes I can't seem to call it from the external page, so I have to put it on the php page instead.  I probably need to go read some more on it.  I also wonder (and will try experimenting) if I can have one button trigger two different functions.  Like advance the photo and change the animation class.  Specifically I want to have photos going up in sequence slide in from the left, and photos going down in sequence slide in from the right.  I thought it would be great to have the photo slide the direction of the advancement arrow.
+
+**Link to work**: [Saunders Technology](saunderstechnology.com)
+
 ### Day 35 September 8, 2018
 
 **Today's Progress**: With some advice from this group on FB, I was able to fix that mysterious margin issue.  I had to set the height of my image container.
