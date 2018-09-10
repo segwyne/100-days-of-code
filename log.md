@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 37 September 10, 2018
+
+**Today's Progress**: I worked on styling blockquotes today.  I started a class called Creating Clients, and Lesson 2 is to build yourself a webpage.  Since I already have one well underway, I looked at what their recommendations for a site include and created a Testimonials page.  I want each testimonial to be a blockquote, so I got to work on styling them.  Each one will have giant quotes at top left and bottom right corners.  Each has an attribution that has a tilde before it. 
+
+**Thoughts**:  This is a great way to play around with :before and :after pseudo-elements.  I still have work to do.  I can get the opening quote in position, but not the closing one yet, and even with 0 margin and padding, there is a lot of space above it.  I'm sure that is from the line the quote sits on, since I moved it down to the line below, but the space is still held for it.  Oh! I wonder if I can set the blockquote to display inline instead of block.  But that kind of defeats the point of "block"quote.  More thinking on it later.
+
+**Link to work**: [Commit on Saunders Tech Site](https://github.com/segwyne/Saunders-tech-site/commit/1a2101165360e5c232be0e121ff044a0c14c251a)
+
 ### Day 36 September 9, 2018
 
 **Today's Progress**: Today I got quite a bit done (didn't confine myself to one hour, either). I added modals to show on mobile screens when opening the animations page or the slideshow page, warning that they are better viewed on larger screens.  I also added an animation to one of the slideshows that slides the photos in from the top.  Now all of the slideshows on that page have different features.  I also made all of my changes live.
