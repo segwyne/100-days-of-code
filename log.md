@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 38 September 11, 2018
+
+**Today's Progress**: I got my quotes to look the way I wanted.  Instead of blockquote:before or after, I classed the paragraphs inside the quote and used .quote:before and .attribution:after.  That gave me the functionality of inline display while still preserving the block display of the blockquote. I also created a contact page.  I included a secure mailto link created with javascript, as well as a form.  I also made myself an email to go with my tech domain.
+
+**Thoughts**:  I'll be honest, the closer I get to being done with the site and actually looking for clients, the more anxious I get.  Building sites is in my comfort zone.  Looking for clients is not.  I still need to create error messages for the contact page.
+
+**Link to work**:
+
+On Github: [Saunders Tech commit](https://github.com/segwyne/Saunders-tech-site/commit/c3bdaed03b4ba4a4f91875dc7297f6884285d148)
+
+Live site: [Saunders Technology](saunderstechnology.com)
+
 ### Day 37 September 10, 2018
 
 **Today's Progress**: I worked on styling blockquotes today.  I started a class called Creating Clients, and Lesson 2 is to build yourself a webpage.  Since I already have one well underway, I looked at what their recommendations for a site include and created a Testimonials page.  I want each testimonial to be a blockquote, so I got to work on styling them.  Each one will have giant quotes at top left and bottom right corners.  Each has an attribution that has a tilde before it. 
