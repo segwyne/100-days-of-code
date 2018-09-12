@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 39 September 12, 2018
+
+**Today's Progress**: Today I tried to wrap my brain around coding pages in WordPress, so I took the plunge and switched the site over.  I have used WordPress as a blog before, but not for static-ish pages.  For the contact page, I first just copied over the code I had written already and pasted it into the text editor of WordPress.  The contact form showed up when I previewed the page, so I copied over my processing/acknowledgement page the same way.  I could not figure out how to connect the two pages, though, and kept getting a 404 error when I tried to test my form.  I could preview my processing form and it showed both the success and failure messages.  When I tried to put that url into my form tag in the contact page, it woulnd't connect.  I finally gave up (for now) and downloaded a plug-in.  I also tried to change the colors on the theme from hot pink to navy blue, so I used the Editor in the Appearance menu of WordPress and switched out all the color codes, but when I refreshed the page, it was all still hot pink.
+
+**Thoughts**: Coding is like cooking.  You can buy a frozen dinner and heat it up, you can buy a mix, add some butter and milk and an egg, toss it in the oven and call it done, or you can buy your ingredients and measure them all yourself.  I much prefer the last way.  It is an art.  The contact form felt very much like a boxed mix to me and I felt cheated of the experience of doing it myself.  I was heartbroken to see that all the coding I did is no longer available for anyone to see.  Sure, you can manually type in the URL, but you have to know it.  When you type in the domain name now, you just get a brand new blog with my name on it.
+
 ### Day 38 September 11, 2018
 
 **Today's Progress**: I got my quotes to look the way I wanted.  Instead of blockquote:before or after, I classed the paragraphs inside the quote and used .quote:before and .attribution:after.  That gave me the functionality of inline display while still preserving the block display of the blockquote. I also created a contact page.  I included a secure mailto link created with javascript, as well as a form.  I also made myself an email to go with my tech domain.
