@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 41 September 14, 2018
+
+**Today's Progress**: I switched out the index page on my tech site so the original site shows up again.  I know that defeats the purpose of installing WordPress, but for now that is okay.  I also started the BootStrap lessons at W3Schools.com.  I learned about images, grid basics, alerts, wells, tables, typography, and jumbotron.
+
+**Thoughts**: I wish there were more practical exercises.  Some of the lessons have no applied exercises at all, and others have ones that make me wonder why I would ever use it.
+
 ### Day 40 September 13, 2018
 
 **Today's Progress**: I backed up my museum's website.  Manually, since I couldn't find my FTP credentials.  I also uninstalled and reinstalled my local WordPress, and now I have to wait until tomorrow when my husband can give aliases to my folders because they are "below root", and I don't understand that part.  I will stick to web design (for now) and let him handle the server management. I also familiarized myself with GitTea for those projects I don't want to make public on GitHub.
