@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 40 September 13, 2018
+
+**Today's Progress**: I backed up my museum's website.  Manually, since I couldn't find my FTP credentials.  I also uninstalled and reinstalled my local WordPress, and now I have to wait until tomorrow when my husband can give aliases to my folders because they are "below root", and I don't understand that part.  I will stick to web design (for now) and let him handle the server management. I also familiarized myself with GitTea for those projects I don't want to make public on GitHub.
+
+**Thoughts**: I'm mildly frustrated with all the trouble I have been having with WordPress.  And yes, I know the problem is all BKAC (Between Keyboard And Chair).  I will conquer this!
+
 ### Day 39 September 12, 2018
 
 **Today's Progress**: Today I tried to wrap my brain around coding pages in WordPress, so I took the plunge and switched the site over.  I have used WordPress as a blog before, but not for static-ish pages.  For the contact page, I first just copied over the code I had written already and pasted it into the text editor of WordPress.  The contact form showed up when I previewed the page, so I copied over my processing/acknowledgement page the same way.  I could not figure out how to connect the two pages, though, and kept getting a 404 error when I tried to test my form.  I could preview my processing form and it showed both the success and failure messages.  When I tried to put that url into my form tag in the contact page, it woulnd't connect.  I finally gave up (for now) and downloaded a plug-in.  I also tried to change the colors on the theme from hot pink to navy blue, so I used the Editor in the Appearance menu of WordPress and switched out all the color codes, but when I refreshed the page, it was all still hot pink.
