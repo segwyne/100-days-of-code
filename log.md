@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 42 September 16, 2018
+
+**Today's Progress**: I worked on my drop down menu templates.  I decided to see if I could duplicate the drop-down menu I had found online with my own CSS.  I tried making it with flexbox, but I discovered that that is impractical because with dropdown menus, the whole menu adjusts.  So no flexbox with drop-down menus.  
+
+**Thoughts**: This is much trickier than I anticipated.  Maybe it is because I am still sick and I'm not making connections that I normally would. I really like flexbox and was disappointed that it didn't work.
+
+### Day 42 September 15, 2018
+
+**Today's Progress**: I took a sick day.
+
 ### Day 41 September 14, 2018
 
 **Today's Progress**: I switched out the index page on my tech site so the original site shows up again.  I know that defeats the purpose of installing WordPress, but for now that is okay.  I also started the BootStrap lessons at W3Schools.com.  I learned about images, grid basics, alerts, wells, tables, typography, and jumbotron.
