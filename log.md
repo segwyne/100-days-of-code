@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 43 September 17, 2018
+
+**Today's Progress**: I rewrote the style for my WordPress theme Rustic because I couldn't figure out why the original wasn't working.  I got all the structure to work, I got the styling to work.  I do not have the links working yet.
+
+**Thoughts**: I hadn't noticed that the tutorial I was following had me pulling blog post info without linking to it, so I could see the title, date, and author of each post, but then I couldn't link to it, so it just sat there looking pretty.  Same with the Archive section.  They just return a page that says "Not Found".  I am really happy with the look of my design and cannot wait to get the links to function.
+
 ### Day 42 September 16, 2018
 
 **Today's Progress**: I worked on my drop down menu templates.  I decided to see if I could duplicate the drop-down menu I had found online with my own CSS.  I tried making it with flexbox, but I discovered that that is impractical because with dropdown menus, the whole menu adjusts.  So no flexbox with drop-down menus.  
