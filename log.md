@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 44 September 18, 2018
+
+**Today's Progress**: Today was a very productive day, I think.  In these last six hours, I majorly overhauled my business website.  I wrote an About page, I worked on my contact form, I wrote a much nicer front page.  
+
+**Thoughts**: I practiced making text cut out photos, but after spending a good amount of time, I decided it wasn't what I wanted after all, so I returned to a simple text banner.  I learned new things in GIMP by doing this, though.  I also struggled with my contact form.  I can't get it to give an error and refuse to process if the email address isn't validated.  So instead, I wrote an autorespond script so that when the message goes through successfully (since it always says it does, even if the email is "an invalid email"), the system will send the message to me and a receipt notification to the email the sender used.
+
 ### Day 43 September 17, 2018
 
 **Today's Progress**: I rewrote the style for my WordPress theme Rustic because I couldn't figure out why the original wasn't working.  I got all the structure to work, I got the styling to work.  I do not have the links working yet.
