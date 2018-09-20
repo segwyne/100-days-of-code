@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 45 September 19, 2018
+
+**Today's Progress**: Today was not so productive.  I don't know if I got my full hour in or not, I suspect not.  I had a very full schedule today and just squeezed in a couple of minutes here and there.  What I *did* get done was offer to create a calendar database for my workplace, and get the database at least created and named with one table in it.  Our current website is all static pages (on purpose - no WordPress allowed), so every time something changes, I (or my boss) have to go in manually and change the code.  This occurs most often on our front page, which has a box of upcoming activities, and links to those activities as well as a link to the general calendar.  So it is a calendar snippet.  I plan to use the database to dynamically keep the upcoming events box on the front page up to date automatically.  That seems pretty simple.  Oh, and I also signed up for Code Triage, so I will see if I can get my feet wet there, too.
+
+**Thoughts**: Hm.  I think I covered it in the progress report.
+
 ### Day 44 September 18, 2018
 
 **Today's Progress**: Today was a very productive day, I think.  In these last six hours, I majorly overhauled my business website.  I wrote an About page, I worked on my contact form, I wrote a much nicer front page.  
