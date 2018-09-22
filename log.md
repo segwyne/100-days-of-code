@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 46 September 21, 2018
+
+**Today's Progress**: I experimented with copy-and-pasting segments of code from an existing WP theme (twentyfifteen) into my own code to make it work.  I managed to make the post titles be links on the home page, and (although I don't understand how) make the formatting of the post show up.
+
+**Thoughts**: I still have much to learn about all of these WP functions that seem to run the show.  When I just tried pulling in the posts, they showed up as plain text paragraphs, with no tags, so the bullet lists and tables were just run on sentences.  I've also decided to pull back a little on the challenge.  Yesterday I had no time to breathe due to all the places I had to take my kids.  A week ago I took a sick day from the challenge because my health has been suffering from staying up until midnight or later doing this challenge instead of going to bed at a decent hour to getup at 5:30.  So my health has to come first.  I will do an hour on the days that I can find an hour, which I know kind of defeats the purpose of the challenge, but I will strive to keep my missed days to a minimum.
+
 ### Day 45 September 19, 2018
 
 **Today's Progress**: Today was not so productive.  I don't know if I got my full hour in or not, I suspect not.  I had a very full schedule today and just squeezed in a couple of minutes here and there.  What I *did* get done was offer to create a calendar database for my workplace, and get the database at least created and named with one table in it.  Our current website is all static pages (on purpose - no WordPress allowed), so every time something changes, I (or my boss) have to go in manually and change the code.  This occurs most often on our front page, which has a box of upcoming activities, and links to those activities as well as a link to the general calendar.  So it is a calendar snippet.  I plan to use the database to dynamically keep the upcoming events box on the front page up to date automatically.  That seems pretty simple.  Oh, and I also signed up for Code Triage, so I will see if I can get my feet wet there, too.
