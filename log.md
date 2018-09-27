@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 49 September 27, 2018
+
+**Today's Progress**: I got rid of my original Rustic project and renamed my remake as the original.  Not much, I know, but I am trying to get it ready for publication.  It would be silly to release a theme called Rustic2 without there being a Rustic first.
+
+**Thoughts**: I'm nervous about it not being perfect when I release it.
+
 ### Day 48 September 26, 2018
 
 **Today's Progress**: Today I made some tweaks to the margins and image styling of Rustic.  I also finally (after several tries) managed to update my local version of WordPress without FTP (we have a firewall in place that seems to block it).  I learned a teeny tiny bit about SVN.
