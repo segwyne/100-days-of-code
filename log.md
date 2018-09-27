@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 48 September 26, 2018
+
+**Today's Progress**: Today I made some tweaks to the margins and image styling of Rustic.  I also finally (after several tries) managed to update my local version of WordPress without FTP (we have a firewall in place that seems to block it).  I learned a teeny tiny bit about SVN.
+
+**Thoughts**: So much to learn about the command line.  I'm tired of having to ask for help with things at that level.  I just want things to work.  They don't have to be super intuitive, but they should at least make sense, none of this chown and svnlite and chmod and chgrp and chpoopy.  Yes, I made up that last one, but I wouldn't be too terribly surprised if it were real at this point.
+
+### Day 47 September 25, 2018
+
+**Today's Progress**: I took a couple of days off for my mental sanity.  I cannot sit down and just code for one hour.  It always turns into 3-6 hours, and that was taking a heavy toll on my family and my health.  Today I downloaded the _s theme from WordPress and used it as the base for my new version of my Rustic theme.  Why is this all italicized now?  Hmmm.  I don't know how to unitalicize in this file.  I did a pretty decent job converting it over, if I do say so myself.  Using the theme as a template (not as a parent), I was able to add all the functionality I wanted my theme to have, like actually linking to the posts it was showing.
+
+**Thoughts**: Ok, unitalicized again here.  I need to fix the bug in my navigation menu that leaves the menu there after it is deleted, but empties it once it is recreated before it is populated.  I will have to see about making this theme available on my site.  In the meantime, I "tested" it by applying it to my completely unrelated blog.  I like it.
+
+**Link to work**: [Slow Frugal Deliberate](slowfrugaldeliberate.com)
+
 ### Day 46 September 21, 2018
 
 **Today's Progress**: I experimented with copy-and-pasting segments of code from an existing WP theme (twentyfifteen) into my own code to make it work.  I managed to make the post titles be links on the home page, and (although I don't understand how) make the formatting of the post show up.
