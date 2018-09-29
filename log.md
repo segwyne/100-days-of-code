@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 50 September 28, 2018
+
+**Today's Progress**: Today I uploaded my theme Rustic to WordPress for inculsion in their repository.  I had to change the name of it to Sylvan because there was already a Rustic theme by another author.  That was disappointing.  It took a lot of tweaking to get my screenshot to look even close to correct.  I struggled with the appearance being different depending on if I was logged in or not.  I had removed a widget from the sidebar, and when I was logged in, it looked like it was gone.  As soon as I logged out to get a nice clean screenshot, it was back.  But I got the screenshot put together, and after a couple of unsuccessful attempts, I managed to get it uploaded and it passed the automated scan.  Yay!
+
+**Thoughts**:  That was exhausting work.  I got very frustrated with the difference between logged in and logged out, so I took the screenshot while logged in and just cropped out the wp-admin toolbar.
+
 ### Day 49 September 27, 2018
 
 **Today's Progress**: I got rid of my original Rustic project and renamed my remake as the original.  Not much, I know, but I am trying to get it ready for publication.  It would be silly to release a theme called Rustic2 without there being a Rustic first.
