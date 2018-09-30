@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 51 September 29, 2018
+
+**Today's Progress**: Today I spent a huge amount of time  hunting in vain for my styling errors.  I want the semi-transparent content background to reach the bottom and I can't figure out how to do it.  I did fix my screenshot for WordPress and I got that uploaded.  I also started working on a page for my theme, but mostly I spend dissecting my theme to figure out the background issue.
+
+**Thoughts**: I might be using the completely wrong tools for this job.  I thought I had made it work for my museum website, but when I dissected that further, I saw that it had the exact same issue, but the various elements are generally larger, so it isn't visible as an issue.
+
 ### Day 50 September 28, 2018
 
 **Today's Progress**: Today I uploaded my theme Rustic to WordPress for inculsion in their repository.  I had to change the name of it to Sylvan because there was already a Rustic theme by another author.  That was disappointing.  It took a lot of tweaking to get my screenshot to look even close to correct.  I struggled with the appearance being different depending on if I was logged in or not.  I had removed a widget from the sidebar, and when I was logged in, it looked like it was gone.  As soon as I logged out to get a nice clean screenshot, it was back.  But I got the screenshot put together, and after a couple of unsuccessful attempts, I managed to get it uploaded and it passed the automated scan.  Yay!
