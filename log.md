@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 52 September 30, 2018
+
+**Today's Progress**: I spent a stupid amount of time trying to manipulate a file and getting no results on my screen because I somehow managed to have to folders that were almost identical and I was manipulating the wrong one.  It was maddening.  Once I finally got into the correct file, I was able to easily make the changes that had been eluding me, namely, to make the site-branding in my theme consistent across pages and screen sizes.  Some pages were using a h1 tag, and others were using a p tag, so now they all use h1 tags and all show up the same way on each page.  Whew!  I also started a changelog for the theme.
+
+**Thoughts**: I am finding so many things I want to tweak now that I have submitted it to WordPress.  :)  That's the way it goes, I suppose.
+
 ### Day 51 September 29, 2018
 
 **Today's Progress**: Today I spent a huge amount of time  hunting in vain for my styling errors.  I want the semi-transparent content background to reach the bottom and I can't figure out how to do it.  I did fix my screenshot for WordPress and I got that uploaded.  I also started working on a page for my theme, but mostly I spend dissecting my theme to figure out the background issue.
