@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 56 October 6, 2018
+
+**Recent Progress**: I have been trying to get my theme all ready for WordPress while I wait for it to get to the top of the queue.  I read lots of denials of themes, which taught me quite a bit about what they look for.  I have been spending the last few days working on those details.  My last hurdle (that I am currently aware of) may not be a deal-breaker for my theme, but it is annoying the bejabbers out of me, and I'm sure any future users of the theme will be equally annoyed.  I added editor styling but I can't figure out how to get it to stop loading up the background image, which it does very slowly, adding another few lines of pixels with every keystroke as I type, even if it is delete or backspace.  It also makes the text grey, which it certainly shouldn't be.
+
+**Thoughts**: I am so glad I read through the denials and that the reviewers put in truly helpful information when they rejected.  
+
 ### Day 52 September 30, 2018
 
 **Today's Progress**: I spent a stupid amount of time trying to manipulate a file and getting no results on my screen because I somehow managed to have to folders that were almost identical and I was manipulating the wrong one.  It was maddening.  Once I finally got into the correct file, I was able to easily make the changes that had been eluding me, namely, to make the site-branding in my theme consistent across pages and screen sizes.  Some pages were using a h1 tag, and others were using a p tag, so now they all use h1 tags and all show up the same way on each page.  Whew!  I also started a changelog for the theme.
