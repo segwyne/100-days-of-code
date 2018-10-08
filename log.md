@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 57 October 7, 2018
+
+**Today's Progress**: I don't think I made any today.  I spent the whole time chasing that wretched photo out of my editor style and I still haven't succeeded.  I don't know how to get the background image out of the editor style when the editor-style.css doesn't have it in there at all.  I tried setting its background-image to none, and that didn't work either.  
+
+**Thoughts**: Very frustrated with it.  I've decided to leave out editor styling for now and just include it in an update later.
+
 ### Day 56 October 6, 2018
 
 **Recent Progress**: I have been trying to get my theme all ready for WordPress while I wait for it to get to the top of the queue.  I read lots of denials of themes, which taught me quite a bit about what they look for.  I have been spending the last few days working on those details.  My last hurdle (that I am currently aware of) may not be a deal-breaker for my theme, but it is annoying the bejabbers out of me, and I'm sure any future users of the theme will be equally annoyed.  I added editor styling but I can't figure out how to get it to stop loading up the background image, which it does very slowly, adding another few lines of pixels with every keystroke as I type, even if it is delete or backspace.  It also makes the text grey, which it certainly shouldn't be.
