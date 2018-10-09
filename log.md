@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 58 October 8, 2018
+
+**Today's Progress**: I had a brilliant idea for a new website (well, I suppose we all think our ideas are brilliant :) ).  I'm going to make a website for historical re-enactors of all eras that will be a mashup of Facebook (friends, newsfeed), Ravelry (I've heard it called Github for knitters - project sharing), Meetup (organizing IRL meetings and events) and Etsy (shops), with a searchable calendar of living history events, a book review section, and a tutorial section.  I brainstormed a lot, I searched Hover.com for my favorite domain ideas, but I didn't actually get any code written.  I did get quite a lot written on paper.  I'm not sure if that counts.
+
+**Thoughts**: I have no idea how I'm going to accomplish all of this.  I know it can be done since others have done all the components already, so I will be learning as I go.  Isn't that how it always goes?  I'm starting with the bits I do know - HTML and CSS to start.  Then I will learn whatever languages I need to create the backend.  So excited!
+
 ### Day 57 October 7, 2018
 
 **Today's Progress**: I don't think I made any today.  I spent the whole time chasing that wretched photo out of my editor style and I still haven't succeeded.  I don't know how to get the background image out of the editor style when the editor-style.css doesn't have it in there at all.  I tried setting its background-image to none, and that didn't work either.  
