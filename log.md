@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 59 October 9, 2018
+
+**Today's Progress**: I began creating the top navigation bar.  I am working on getting two separate menus to play nicely together in the same header.  I want one on the left and one on the right, and just like my kids, they keep getting into each other's space and making a mess.  I'm sure that I will see the obvious answer in the morning after a good night's sleep (the 5 hours I got last night doesn't cut it).
+
+**Thoughts**: Still excited, but trying to pace myself.  No sense in pushing myself too hard and writing bad code that I will have to rewrite later just because I was tired and not thinking straight.
+
 ### Day 58 October 8, 2018
 
 **Today's Progress**: I had a brilliant idea for a new website (well, I suppose we all think our ideas are brilliant :) ).  I'm going to make a website for historical re-enactors of all eras that will be a mashup of Facebook (friends, newsfeed), Ravelry (I've heard it called Github for knitters - project sharing), Meetup (organizing IRL meetings and events) and Etsy (shops), with a searchable calendar of living history events, a book review section, and a tutorial section.  I brainstormed a lot, I searched Hover.com for my favorite domain ideas, but I didn't actually get any code written.  I did get quite a lot written on paper.  I'm not sure if that counts.
