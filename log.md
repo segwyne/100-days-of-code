@@ -2,6 +2,14 @@
 
 ### Day 61 October 11, 2018
 
+**Today's Progress**: I sat down again and finished up the header.  Now all of the layout (as much as I have so far) looks just how I want it.
+
+**Thoughts**: Pretty soon here, I will need to start adding content, which will mean learning new languages.  I also need to come up with a good name before too long.
+
+**Link to work**: [Github link](https://github.com/segwyne/distaffandplough)
+
+### Day 61 October 11, 2018
+
 **Today's Progress**: I got the footer working right.  The menu is now centered along the bottom of the screen on a desktop and lined up vertically on my phone.  Next up: managing the header.
 
 **Thoughts**: Centering the footer menu was a lot more complicated than I thought.  I expected only a line or three of code, but it took quite a bit.  I used solution #4 from (http://www.websitecodetutorials.com/code/css/css-center-nav.php).
