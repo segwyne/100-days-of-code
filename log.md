@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 60 October 10, 2018
+
+**Today's Progress**: I got the footer made and just need to figure out why the menu won't center for me.  I also worked on styling the header, trying out a few different ideas.  Still not happy with it yet.
+
 ### Day 59 October 9, 2018
 
 **Today's Progress**: I began creating the top navigation bar.  I am working on getting two separate menus to play nicely together in the same header.  I want one on the left and one on the right, and just like my kids, they keep getting into each other's space and making a mess.  I'm sure that I will see the obvious answer in the morning after a good night's sleep (the 5 hours I got last night doesn't cut it).
