@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 61 October 11, 2018
+
+**Today's Progress**: I got the footer working right.  The menu is now centered along the bottom of the screen on a desktop and lined up vertically on my phone.  Next up: managing the header.
+
+**Thoughts**: Centering the footer menu was a lot more complicated than I thought.  I expected only a line or three of code, but it took quite a bit.  I used solution #4 from (http://www.websitecodetutorials.com/code/css/css-center-nav.php).
+
 ### Day 60 October 10, 2018
 
 **Today's Progress**: I got the footer made and just need to figure out why the menu won't center for me.  I also worked on styling the header, trying out a few different ideas.  Still not happy with it yet.
