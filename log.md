@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 62 October 15, 2018
+
+**Today's Progress**: I didn't do any coding the last three days because I worked an extra 15 hours more than usual at my day job.  I just came home and crashed each night.  So today I created a page to take input for adding an event to the calendar.  I don't have the processing page yet, just the input page.  It is very basic and needs some serious styling.  But that can come after the processing.
+
+**Thoughts**: I didn't feel like coding today, which is unusual.  I attribute it to my extra hours at work and wanting to get housework done instead.  I just set a timer and sat down to do it.  I did get into feeling like it, so that was good.
+
+**Link to commit**: [Github link](https://github.com/segwyne/linenandiron/commit/1e73cf1fa6b36038188e068e25f99a5ec070e898)
+
 ### Day 61 October 11, 2018
 
 **Today's Progress**: I sat down again and finished up the header.  Now all of the layout (as much as I have so far) looks just how I want it.
