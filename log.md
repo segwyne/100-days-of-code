@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 63 October 16, 2018
+
+**Today's Progress**: I wrestled with the dozen radio buttons I had used, then I remembered that I could just use a dropdown box and simplify my code dramatically, so I did that.  I also started the page to process the addition of events to the database.
+
+**Thoughts**: Not much.  I kept getting distracted by my music.  Next time, no lyrics.
+
 ### Day 62 October 15, 2018
 
 **Today's Progress**: I didn't do any coding the last three days because I worked an extra 15 hours more than usual at my day job.  I just came home and crashed each night.  So today I created a page to take input for adding an event to the calendar.  I don't have the processing page yet, just the input page.  It is very basic and needs some serious styling.  But that can come after the processing.
