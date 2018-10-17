@@ -2,7 +2,13 @@
 
 ### Day 64 October 17, 2018
 
-**Today's Progress**: It occured to me that I can just build my site on WordPress instead of trying to rebuild the database wheel.  In my day job, I am responsible for publicizing our activities on online calendars, and some of them use WordPress for the framework, so I can, too.  Today I spent my time transitioning it all over to WordPress.  I got it to look right so far over there, with the exception that now my links are all default colors instead of a consistent white.  My footer is a little out of whack, sitting a little higher than it is supposed to, also.  Projects for tomorrow.
+**Today's Progress**: I fixed some of the styling issues that happened when I switched to WordPress (building on the underscores theme like I did for the theme I submitted).  I also installed an event plug-in and created some categories.  
+
+**Thoughts**: It is starting to feel a bit more real now, rather than just a concept in my head.
+
+### Day 63-B October 16, 2018
+
+**Today's Progress**: It occured to me that I can just build my site on WordPress instead of trying to rebuild the database wheel.  In my day job, I am responsible for publicizing our activities on online calendars, and some of them use WordPress for the framework, so I can, too.  Today I spent my time transitioning it all over to WordPress.  I got it to look right so far over there, with the exception that now my links are all default colors instead of a consistent white.  My footer is a little out of whack, sitting a little higher than it is supposed to, also.  Projects for tomorrow.  I also made a logo.  
 
 **Thoughts**: If using WordPress works as I hope it will, it will greatly speed up the launching of the site, which I keep renaming.
 
