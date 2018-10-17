@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 64 October 17, 2018
+
+**Today's Progress**: It occured to me that I can just build my site on WordPress instead of trying to rebuild the database wheel.  In my day job, I am responsible for publicizing our activities on online calendars, and some of them use WordPress for the framework, so I can, too.  Today I spent my time transitioning it all over to WordPress.  I got it to look right so far over there, with the exception that now my links are all default colors instead of a consistent white.  My footer is a little out of whack, sitting a little higher than it is supposed to, also.  Projects for tomorrow.
+
+**Thoughts**: If using WordPress works as I hope it will, it will greatly speed up the launching of the site, which I keep renaming.
+
+**Link**: [At the Sign of the Compass](saunderstechnology.com/compass)
+
 ### Day 63 October 16, 2018
 
 **Today's Progress**: I wrestled with the dozen radio buttons I had used, then I remembered that I could just use a dropdown box and simplify my code dramatically, so I did that.  I also started the page to process the addition of events to the database.
