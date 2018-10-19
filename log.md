@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 65 October 18, 2018
+**Today's Progress**: I got the logo to sit where I wanted it to, and also set it as the wallpaper.  I adjusted the font size in the header to be reponsive, and also adjusted the menu to be better responsive.  It isn't live on the site yet, though.
+
+**Thoughts**: I'm not sure if I like exactly how the background is working.  I will leave it and "try it on" for a while.
+
 ### Day 64 October 17, 2018
 
 **Today's Progress**: I fixed some of the styling issues that happened when I switched to WordPress (building on the underscores theme like I did for the theme I submitted).  I also installed an event plug-in and created some categories.  
