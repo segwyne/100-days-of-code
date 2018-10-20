@@ -1,7 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 66 October 20, 2018
+
+**Today's Progress**: I worked on getting the site translated to WP, which is proving more finicky than other things I have done.  
+
+**Thoughts**: It doesn't feel like I got anything accomplished today.  My logo won't show up in my header.  I'm still working out which elements of WordPress code I need in my theme since I'm not making a public theme this time, just a private one for this particular site.  Maybe I can copy everything over wholesale and not try to translate it.  But now I have to get ready for work.
+
 ### Day 65 October 18, 2018
-**Today's Progress**: I got the logo to sit where I wanted it to, and also set it as the wallpaper.  I adjusted the font size in the header to be reponsive, and also adjusted the menu to be better responsive.  It isn't live on the site yet, though.
+
+**Today's Progress**: I got the logo to sit where I wanted it to, and also set it as the wallpaper.  I adjusted the font size in the header to be responsive, and also adjusted the menu to be better responsive.  It isn't live on the site yet, though.
 
 **Thoughts**: I'm not sure if I like exactly how the background is working.  I will leave it and "try it on" for a while.
 
