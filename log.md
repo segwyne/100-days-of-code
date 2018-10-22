@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 67 October 22, 2018
+
+**Today's Progress**: I struggled with the WP rendition of the site for a good hour trying to figure out why it won't load my logo image.  I then switched over to the non-WP version and worked on getting the elements to line up in my header the way I want them to. I discovered that I now have excess real estate on the right side of my screen.  I need to identify it and get rid of it.  No one wants a horizontal scroll bar on a wide-screen desktop. 1920 pixels isn't enough?
+
+**Thoughts**: I still have tweaks I want to make, but I also have laundry I have to fold, so more will have to wait until tomorrow.
+
 ### Day 66 October 20, 2018
 
 **Today's Progress**: I worked on getting the site translated to WP, which is proving more finicky than other things I have done.  
