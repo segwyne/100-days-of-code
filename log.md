@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 68 October 23, 2018
+
+**Today's Progress**: Today I got WordPress to load my logo (I had to put it in the correct directory).  I also got to work recoloring my Event plugin so that it has the same color theme as the rest of the site instead of greyscale. I did not try to find the extra real estate on the screen.  I entered two events as sample data so I could test things out.  I also crossed out all the menu options that aren't developed yet.  But I can click on Calendar and it takes me there, and I can click on the site name and it takes me home.
+
+**Thoughts**: It feels like I got a lot done today.  I like how it is turning out so far.  More things to add to my to-do list include playing with the alignments of the event pages (I focused only on the calendar page today, specifically in Month view), figuring out how I messed up my mobile header, and try out the membership plugin I downloaded and haven't looked at yet.
+
+**Link to work**: [At the Sign of the Compass](http://saunderstechnology.com/compass/)
+
 ### Day 67 October 22, 2018
 
 **Today's Progress**: I struggled with the WP rendition of the site for a good hour trying to figure out why it won't load my logo image.  I then switched over to the non-WP version and worked on getting the elements to line up in my header the way I want them to. I discovered that I now have excess real estate on the right side of my screen.  I need to identify it and get rid of it.  No one wants a horizontal scroll bar on a wide-screen desktop. 1920 pixels isn't enough?
