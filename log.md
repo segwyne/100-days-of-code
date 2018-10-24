@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 69 October 24, 2018
+
+**Today's Progress**: I did some more styling of the calendar and single event pages.  Specifically, I aligned things closer to how I want them.  Still a bit to do, but I'm almost ready to call it done.
+
+**Thoughts**: I don't think I got a full hour in today, but that is okay.  I got in some time at least.  Found another thing to add to my to-do list: Figure out why the Account menu drops down behind the calendar instead of in front of it.  Adding a z-index of 4 million something didn't help.
+
 ### Day 68 October 23, 2018
 
 **Today's Progress**: Today I got WordPress to load my logo (I had to put it in the correct directory).  I also got to work recoloring my Event plugin so that it has the same color theme as the rest of the site instead of greyscale. I did not try to find the extra real estate on the screen.  I entered two events as sample data so I could test things out.  I also crossed out all the menu options that aren't developed yet.  But I can click on Calendar and it takes me there, and I can click on the site name and it takes me home.
