@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 70 October 25, 2018
+
+**Today's Progress**: More tweaking and aligning and coloring.  I added a search bar to the main menu and it does work (that took some effort that I wasn't expecting).  Sometimes when I fix one thing, it throws another out of whack.  I centered the images on the search results page so they didn't look awkward off to one side, and then my header was all misaligned.  I had to narrow down my focus to target just the right images.  I also created a front page with some relevant content and struck out the footer menu items that don't go anywhere.
+
+**Thoughts**: I realized that if this is going to do the job I originally intended on the scale that I originally intended, there will likely be tens of thousands of events for it to process and parse.  I'm suddenly daunted by the scope of it. I guess that is a clue that my goal is the right size here. According to Brooke Castillo, if your goal doesn't scare you, it isn't big enough.
+
 ### Day 69 October 24, 2018
 
 **Today's Progress**: I did some more styling of the calendar and single event pages.  Specifically, I aligned things closer to how I want them.  Still a bit to do, but I'm almost ready to call it done.
