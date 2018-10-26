@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 71 October 26, 2018
+
+**Today's Progress**: Today I think I finished tweaking the Events styling, and I moved on to the Membership styling and settings.  The membership plugin is so much easier to modify because it is a normal (human-readable) css file instead of a single squished up line called a min css file.  With the Memberhsip settings, I may need to get some assistance from the designers because when I try to save email settings (such as for sending a welcome email when someone makes a new account) it gives me a gobbledygook page and doesn't actually save any of my settings.  I also need to figure out how to redirect some of the pages.  It would be nice to have an acknowledgment when a new registration is processed instead of just sitting there with the filled out form still on the screen without the password filled in.  Redirecting to a page that says thank you for registering would be nice.
+
+**Thoughts**: I really much prefer the non min css files.  Really really prefer them.  I like that I am able to make a unified visual scheme for all the parts of the site so far.
+
 ### Day 70 October 25, 2018
 
 **Today's Progress**: More tweaking and aligning and coloring.  I added a search bar to the main menu and it does work (that took some effort that I wasn't expecting).  Sometimes when I fix one thing, it throws another out of whack.  I centered the images on the search results page so they didn't look awkward off to one side, and then my header was all misaligned.  I had to narrow down my focus to target just the right images.  I also created a front page with some relevant content and struck out the footer menu items that don't go anywhere.
