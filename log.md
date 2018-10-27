@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 72 October 27, 2018
+
+**Today's Progress**: My husband got my jail setup in such a way that I can install plugins for my localhost WordPress.  Therefore I spent quite a bit of time today getting my localhost WordPress to match what I had deployed so far.  I got a little more styling done, too.  I fixed my broken mobile header (that was an easy fix once I actually looked at it), so that is a relief.
+
+**Thoughts**: I need to explore my membership plugin because it came very highly rated in the WP repository, but I can't get it to so much as tell me when there is a new user that needs to be approved.  There was probably a tutorial that popped up when I first installed it that I ignored and should probably see if I can find now.
+
 ### Day 71 October 26, 2018
 
 **Today's Progress**: Today I think I finished tweaking the Events styling, and I moved on to the Membership styling and settings.  The membership plugin is so much easier to modify because it is a normal (human-readable) css file instead of a single squished up line called a min css file.  With the Memberhsip settings, I may need to get some assistance from the designers because when I try to save email settings (such as for sending a welcome email when someone makes a new account) it gives me a gobbledygook page and doesn't actually save any of my settings.  I also need to figure out how to redirect some of the pages.  It would be nice to have an acknowledgment when a new registration is processed instead of just sitting there with the filled out form still on the screen without the password filled in.  Redirecting to a page that says thank you for registering would be nice.
