@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 73 October 20, 2018
+
+**Today's Progress**: I did mostly tweaking.  I fixed a couple of bugs that were throwing off the layout in certain screen sizes.  I added some test events to my localhost copy.  I installed Gutenberg on my localhost copy.  There are several features that I am struggling with in the membership plugin.  Maybe I need to get addons for the features I want.
+
+**Thoughts**: Today's time has been frequently interrupted, so I'm having trouble remembering what exactly I have done today.  It took me 8 hours to get my 1-2 hours of coding done. 
+
 ### Day 72 October 27, 2018
 
 **Today's Progress**: My husband got my jail setup in such a way that I can install plugins for my localhost WordPress.  Therefore I spent quite a bit of time today getting my localhost WordPress to match what I had deployed so far.  I got a little more styling done, too.  I fixed my broken mobile header (that was an easy fix once I actually looked at it), so that is a relief.
