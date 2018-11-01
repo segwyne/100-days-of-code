@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 73 October 20, 2018
+### Day 74 October 31, 2018
+
+**Today's Progress**: I fixed the extra real estate on the right hand side (again), I removed annoying wp-admin bar additions, I tweaked the screen size breaks so that the footer doesn't get cut off and items in the header don't overlap.
+
+**Thoughts**: I'm too tired to think.
+
+### Day 73 October 30, 2018
 
 **Today's Progress**: I did mostly tweaking.  I fixed a couple of bugs that were throwing off the layout in certain screen sizes.  I added some test events to my localhost copy.  I installed Gutenberg on my localhost copy.  There are several features that I am struggling with in the membership plugin.  Maybe I need to get addons for the features I want.
 
