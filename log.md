@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 75 October 32, 2018
+
+**Today's Progress**: When you are having trouble fixing something, you are supposed to blow the whole thing up and start over froms scratch, right?  Well, I did save my styling sheet and my header and footer.  Otherwise, KABOOM!  I have it almost completely built back up again, except for test users and test events, and a bit of styling for the membership pages.
+
+**Thoughts**: Essentially, I am unplugging it and plugging it back in again.  I think.  My hosting service is starting to be slow and it has decided to abscond with the administration page.  I think it is telling me to go to bed.
+
 ### Day 74 October 31, 2018
 
 **Today's Progress**: I fixed the extra real estate on the right hand side (again), I removed annoying wp-admin bar additions, I tweaked the screen size breaks so that the footer doesn't get cut off and items in the header don't overlap.
