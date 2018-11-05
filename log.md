@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
-## Day 77 November 4, 2018
+### Day 78 November 5, 2018
+
+**Today's Progress**: I worked a lot on the Compass site and have launched it for beta testing.  Plug-ins are customized (mostly - I just have to recolor the membership plugin), I tweaked the admin panel so that I can set some users to contributors and they can add events, but not do anything else administrative.  I adjusted the user menu so that Register and Log In now show in the bar in place of My Account, rather than as its elements.  I also managed to get the My Account to say the Username's Account instead.  Yay!  With multiple test accounts, it is nice to know whom I am logged in as.
+
+**Thoughts**: I am excited to get some feedback on the site and see it launch.
+
+### Day 77 November 4, 2018
 
 **Today's Progress**: I don't know what I did, but I was getting some cross-referencing between the living history website and my tech website, and I nuked almost everything again, but that didn't fix it, so I had to wait for my husband to come and check out DNS servers and it turns out that one problem was in our DNS servers, and another problem was in my browser cache.  So I probably didn't have to nuke it again after all.  Oh well.  It is back up now, but with a subdomain instead of a subdirectory.
 
