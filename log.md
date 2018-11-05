@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 77 November 4, 2018
+
+**Today's Progress**: I don't know what I did, but I was getting some cross-referencing between the living history website and my tech website, and I nuked almost everything again, but that didn't fix it, so I had to wait for my husband to come and check out DNS servers and it turns out that one problem was in our DNS servers, and another problem was in my browser cache.  So I probably didn't have to nuke it again after all.  Oh well.  It is back up now, but with a subdomain instead of a subdirectory.
+
+### Day 76 October 34, 2018
+
+**Today's Progress**: Today I finished rebuilding what I nuked.  No net progress.
+
 ### Day 75 October 32, 2018
 
 **Today's Progress**: When you are having trouble fixing something, you are supposed to blow the whole thing up and start over froms scratch, right?  Well, I did save my styling sheet and my header and footer.  Otherwise, KABOOM!  I have it almost completely built back up again, except for test users and test events, and a bit of styling for the membership pages.
