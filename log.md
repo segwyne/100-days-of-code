@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 79 November 6, 2018
+
+**Today's Progress**: Today I wrestled with the Saunders Tech website.  I wanted the Services page to look more professional, so I spiffed that up.  I updated the About Us page.  I also tried to switch over again to WordPress, but that is going to take way more time than I have today, so after probably 3 hours, I reverted back to the non-WP version that behaved for me.
+
+**Thoughts**: I am ready to send out a mostly cold email inquiry to a former employer (I worked there 15 years ago for 3 months), to see if I can redesign their website.  I didn't want to send it until I had the Saunders Tech site ready for perusal by potential clients.  It is ready now, so the email will go out tomorrow.
+
 ### Day 78 November 5, 2018
 
 **Today's Progress**: I worked a lot on the Compass site and have launched it for beta testing.  Plug-ins are customized (mostly - I just have to recolor the membership plugin), I tweaked the admin panel so that I can set some users to contributors and they can add events, but not do anything else administrative.  I adjusted the user menu so that Register and Log In now show in the bar in place of My Account, rather than as its elements.  I also managed to get the My Account to say the Username's Account instead.  Yay!  With multiple test accounts, it is nice to know whom I am logged in as.
