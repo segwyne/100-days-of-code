@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 80 November 7, 2018
+
+**Today's Progress**: I sent out the coldish email inquiry and then started working on the site as if they have said yes.  This is to give me an idea of how long it will take me to do it and what price to ask.  To do: once again, the footer is giving me problems; I want to start with a hamburger icon and switch to a times icon when using the mobile navigation; and I have some bizarre alignment or spacing issue at the smallest size that I need to hunt down.
+
+**Thoughts**: I think it would be fantastic if I can get this all created in the next couple of days and then when the client says yes, I will already have it done.
+
 ### Day 79 November 6, 2018
 
 **Today's Progress**: Today I wrestled with the Saunders Tech website.  I wanted the Services page to look more professional, so I spiffed that up.  I updated the About Us page.  I also tried to switch over again to WordPress, but that is going to take way more time than I have today, so after probably 3 hours, I reverted back to the non-WP version that behaved for me.
