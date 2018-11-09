@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 81 November 8, 2018
+
+**Today's Progress**: I worked on the potential client site today, primarily on the navigation.  It is a sliding menu and I tried doing it entirely with CSS, but that didn't quite work, or maybe I didn't do enough styling.  In the end, I succumbed and used javascript.  I have 4.5 hours into it (total for the whole site) so far.
+
+**Thoughts**: Not using javascript for the last several weeks meant I had to brush up on it again.  Once I get the layout just right, the rest of the site will be a breeze.  And, wow!  I'm up to day 81!
+
 ### Day 80 November 7, 2018
 
 **Today's Progress**: I sent out the coldish email inquiry and then started working on the site as if they have said yes.  This is to give me an idea of how long it will take me to do it and what price to ask.  To do: once again, the footer is giving me problems; I want to start with a hamburger icon and switch to a times icon when using the mobile navigation; and I have some bizarre alignment or spacing issue at the smallest size that I need to hunt down.
@@ -22,7 +28,7 @@
 
 **Today's Progress**: I don't know what I did, but I was getting some cross-referencing between the living history website and my tech website, and I nuked almost everything again, but that didn't fix it, so I had to wait for my husband to come and check out DNS servers and it turns out that one problem was in our DNS servers, and another problem was in my browser cache.  So I probably didn't have to nuke it again after all.  Oh well.  It is back up now, but with a subdomain instead of a subdirectory.
 
-### Day 76 October 34, 2018
+### Day 76 November 3, 2018
 
 **Today's Progress**: Today I finished rebuilding what I nuked.  No net progress.
 
