@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 84 November 13, 2018
+
+**Today's Progress**: I finished up the potential client site.  The only thing I can't check is the form mailing system because we don't yet have an email system on our file server.  It consists of 5 static pages and 2 form pages.  It has a responsive side navigation menu that slides in from the side on mobile devices.  I converted all the layout tables to CSS divs, keeping only one table because it actually made sense to be a table.  I also kept the site looking as closely as I could to the original site.  There are some layout differences to the header, but otherwise, it is a drop-in replacement.
+
+**Thoughts**: I tracked my time for this simple site.  t took me a total of 11 hours, including learning how to do the navigation menu without javascript.  I might continue tweaking the header layout, but overall, I'm pretty pleased with it.
+
 ### Day 83 November 12, 2018
 
 **Today's Progress**: I spent about 4.5 hours working on getting the menu to do what I want it to do.  Now I've got that mostly done, and I noticed that my footer is misbehaving.
