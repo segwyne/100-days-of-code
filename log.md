@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 83 November 12, 2018
+
+**Today's Progress**: I spent about 4.5 hours working on getting the menu to do what I want it to do.  Now I've got that mostly done, and I noticed that my footer is misbehaving.
+
+**Thoughts**: I am tracking all my time on this project so I know exactly how long it really takes me to do it.
+
+### Day 82 November 9, 2018
+
+**Today's Progress**: Today I only had a very little amount of time, but I restarted the potential client site from nothing.
+
 ### Day 81 November 8, 2018
 
 **Today's Progress**: I worked on the potential client site today, primarily on the navigation.  It is a sliding menu and I tried doing it entirely with CSS, but that didn't quite work, or maybe I didn't do enough styling.  In the end, I succumbed and used javascript.  I have 4.5 hours into it (total for the whole site) so far.
