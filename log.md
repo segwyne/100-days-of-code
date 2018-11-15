@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 85 November 14, 2018
+
+**Today's Progress**: I was only able to sneak in a little time to work on anything, so I worked on my Compass project, creating pages for external calendars and another for established organizations.  These are now available from the events page and the people page respectively.
+
+**Thoughts**: It's not much, but it's something.
+
 ### Day 84 November 13, 2018
 
 **Today's Progress**: I finished up the potential client site.  The only thing I can't check is the form mailing system because we don't yet have an email system on our file server.  It consists of 5 static pages and 2 form pages.  It has a responsive side navigation menu that slides in from the side on mobile devices.  I converted all the layout tables to CSS divs, keeping only one table because it actually made sense to be a table.  I also kept the site looking as closely as I could to the original site.  There are some layout differences to the header, but otherwise, it is a drop-in replacement.
