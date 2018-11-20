@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 87 November 19, 2018
+
+**Today's Progress**: My WordPress theme has been reviewed and I need to make one more correction to it, so I worked on that today.  I haven't gotten it figured out yet, but I spent a good while trying.
+
 ### Day 86 November 15, 2018
 
 **Today's Progress**: I didn't get much done today.  Personal life is keeping my away from coding much.  I did add some more to my organizations page, but mostly I was looking for links to add to my pages that would be valuable.
