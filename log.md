@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 90 November 25, 2018
+
+**Today's Progress**: Today I revisited my sewing website.  I corrected a couple of links that were wrong, and I started the grueling process of manually transferring my original blog from Weebly to the new site.
+
 ### Day 89 November 24, 2018
 
 **Today's Progress**: More adjustments required for my WordPress theme.
