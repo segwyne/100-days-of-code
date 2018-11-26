@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 89 November 24, 2018
+
+**Today's Progress**: More adjustments required for my WordPress theme.
+
 ### Day 88 November 22, 2018
 
 **Today's Progress**: I think I got all of the corrections made that I needed to for my WordPress theme.
