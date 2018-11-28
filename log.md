@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 91 November 27, 2018
+
+**Today's Progress**: I learned how to create a pot file for my WordPress theme.  This took several tries, including two dead-ends, but I finally succeeded.  I also learned more about open source licenses and compatibility.  I had several different licenses that I had to mesh together.
+
+**Thoughts**: This has been quite a learning experience.  I originally thought that all I had to do to make this theme was to write a new stylesheet.  There is much more involved.  I'm not sure I want to do it again.
+
 ### Day 90 November 25, 2018
 
 **Today's Progress**: Today I revisited my sewing website.  I corrected a couple of links that were wrong, and I started the grueling process of manually transferring my original blog from Weebly to the new site.
