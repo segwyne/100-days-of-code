@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 92 November 28, 2018
+
+**Today's Progress**: I played around with my sewing site, changing up the color scheme mostly.
+
+**Thoughts**: It was hard to stay motivated today.  I wanted to go sew instead.
+
 ### Day 91 November 27, 2018
 
 **Today's Progress**: I learned how to create a pot file for my WordPress theme.  This took several tries, including two dead-ends, but I finally succeeded.  I also learned more about open source licenses and compatibility.  I had several different licenses that I had to mesh together.
