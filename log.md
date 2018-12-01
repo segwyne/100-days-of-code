@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 93 November 30, 2018
+
+**Today's Progress**: Today I styled the blog portion of my sewing site to match the rest of it.  
+
+**Thoughts**: I am nearly done, but have stared at this screen so long that it is all starting to look like gibberish.  Fresh eyes on it tomorrow to figure out why my color doesn't reach the bottom.
+
 ### Day 92 November 28, 2018
 
 **Today's Progress**: I played around with my sewing site, changing up the color scheme mostly.
