@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 94 December 1, 2018
+
+**Today's Progress**: I transferred the entirety of my old weebly blog over to my WordPress sewing site by copy and pasting, since Weebly does not have an export feature.  That took quite a while.
+
 ### Day 93 November 30, 2018
 
 **Today's Progress**: Today I styled the blog portion of my sewing site to match the rest of it.  
