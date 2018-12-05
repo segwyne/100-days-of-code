@@ -4,6 +4,8 @@
 
 **Today's Progress**: I got distracted for a few days with learning to speak Swedish.  Today I explored the woocommerce plugin at WordPress and set it up so I can make sales from my sewing site.  I have one product up - a lace shawl knitting pattern.  It seems to be functioning now, but desperately needs styling.  Tomorrow!
 
+It seems to also need an SSL.  I thought I was covered by one already.  That, too, must wait for now.
+
 **Link**: [Segwyne's Needle](http://segwynesneedle.com/shop)
 
 ### Day 94 December 1, 2018
