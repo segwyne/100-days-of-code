@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 96 December 6, 2018
+
+**Today's Progress**: I got my SSL certificate installed, and had to add a plugin to unbreak my site.  I also finally found the file I needed to style my products pages, so I started that.  I just gave them some space, and fixed a clashing color (the stripe of dark green on my pink and purple page didn't look good at all).   More to come there, especially once I add some more products so I can see how multiple products interact with each other.  For now I still only have one product up.
+
 ### Day 95 December 5, 2018
 
 **Today's Progress**: I got distracted for a few days with learning to speak Swedish.  Today I explored the woocommerce plugin at WordPress and set it up so I can make sales from my sewing site.  I have one product up - a lace shawl knitting pattern.  It seems to be functioning now, but desperately needs styling.  Tomorrow!
