@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 97 December 7, 2018
+
+**Today's Progress**: I started converting my sewing site completely to WordPress instead of having it be a hybrid.  It was getting annoying having two different sets of code to update if I wanted to make a change.  I got a good chunk done.  More tomorrow, I suppose.
+
 ### Day 96 December 6, 2018
 
 **Today's Progress**: I got my SSL certificate installed, and had to add a plugin to unbreak my site.  I also finally found the file I needed to style my products pages, so I started that.  I just gave them some space, and fixed a clashing color (the stripe of dark green on my pink and purple page didn't look good at all).   More to come there, especially once I add some more products so I can see how multiple products interact with each other.  For now I still only have one product up.
