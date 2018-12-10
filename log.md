@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 98 December 9, 2018
+
+**Today's Progress**: I spent a lot of time blending the dynamic navigation bar of my blog pages with the static navigation bar of the static pages.  Much closer, but still not quite right.
+
+**Thoughts**: I am so ready to be done with this challenge.  I am having a hard time staying motivated and I am so close to being done.
+
 ### Day 97 December 7, 2018
 
 **Today's Progress**: I started converting my sewing site completely to WordPress instead of having it be a hybrid.  It was getting annoying having two different sets of code to update if I wanted to make a change.  I got a good chunk done.  More tomorrow, I suppose.
