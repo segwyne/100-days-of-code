@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 99 December 10, 2018
+
+**Today's Progress**: I believe I have the navigation bar working exactly how I want it.  I also tweaked my header a bit.  At a small subset of widths, it was a little funky.  Oh dear.  I see that my search button looks funny now.  Well, that will have to wait until tomorrow.  Also for tommorrow is to correct the widths of my single pages.  I took down the sidebar for them, but now there is empty space.
+
 ### Day 98 December 9, 2018
 
 **Today's Progress**: I spent a lot of time blending the dynamic navigation bar of my blog pages with the static navigation bar of the static pages.  Much closer, but still not quite right.
