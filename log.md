@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 100 December 12, 2018
+
+**Today's Progress**: I fixed the appearance of my buttons, I adjusted the width of the products in my shop, I managed to get my color to stretch all the way to the bottom of my page (which was a slightly different problem than keeping the footer at the bottom, but I used similar tactics).  I discovered that I had neglected to designate pixels in one of my margins, so the browser was ignoring that rule.  It was causing my products to be smooshed up against the edge of the display on very small screens, so I fixed that.  I tweaked some more spacing issues, and added my mug to the sidebar so everyone can see me.
+
+**Thoughts**: I'm calling it done.  I will probably find more things to tweak as I add content and products, but as it is, I'm pretty happy with it.
+
 ### Day 99 December 10, 2018
 
 **Today's Progress**: I believe I have the navigation bar working exactly how I want it.  I also tweaked my header a bit.  At a small subset of widths, it was a little funky.  Oh dear.  I see that my search button looks funny now.  Well, that will have to wait until tomorrow.  Also for tommorrow is to correct the widths of my single pages.  I took down the sidebar for them, but now there is empty space.
